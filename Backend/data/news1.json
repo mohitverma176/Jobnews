@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+    "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+    "date": "Thu, 20 Aug 2026 13:00:35 +0000",
+    "description": "\n                        Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.\n                    "
+  },
+  {
+    "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+    "link": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+    "date": "Tue, 18 Aug 2026 13:00:04 +0000",
+    "description": "\n                        Secret parameter allowed hackers to steal passwords when a target clicked on a link.\n                    "
+  },
+  {
+    "title": "Nvidia discloses $21B stake in SpaceX",
+    "link": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
+    "date": "Mon, 17 Aug 2026 14:22:54 +0000",
+    "description": "\n                        Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers.\n                    "
+  },
+  {
+    "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+    "link": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+    "date": "Fri, 14 Aug 2026 18:32:14 +0000",
+    "description": "\n                        Screen-sharing bug lets remote hackers log in without a password.\n                    "
+  },
+  {
+    "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
+    "link": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
+    "date": "Fri, 14 Aug 2026 17:03:54 +0000",
+    "description": "\n                        \"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars. \n                    "
+  },
+  {
+    "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+    "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+    "date": "Fri, 14 Aug 2026 14:27:14 +0000",
+    "description": "\n                        US groups release cheaper models after new challenges to their trillion-dollar ambitions.\n                    "
+  },
+  {
+    "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
+    "link": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
+    "date": "Thu, 13 Aug 2026 19:38:58 +0000",
+    "description": "\n                        Trump memo is first time gov't has authorized private sector to perform cyberattacks.\n                    "
+  },
+  {
+    "title": "Terabytes of credentials leaked in massive supply-chain attack",
+    "link": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+    "date": "Wed, 12 Aug 2026 21:43:21 +0000",
+    "description": "\n                        The data was scraped and exfiltrated from 2,500 users of a compromised AI package.\n                    "
+  },
+  {
+    "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
+    "link": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
+    "date": "Wed, 12 Aug 2026 00:08:40 +0000",
+    "description": "\n                        FBI Atlanta confirms it's looking into the incident, no arrests made.\n                    "
+  },
+  {
+    "title": "Chrome adopts what may be the best protection yet against account takeovers",
+    "link": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
+    "date": "Tue, 11 Aug 2026 20:59:52 +0000",
+    "description": "\n                        Device-bound session credentials thwart an increasingly common form of account takeover.\n                    "
+  },
+  {
+    "title": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
+    "link": "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/",
+    "date": "Tue, 11 Aug 2026 11:30:08 +0000",
+    "description": "\n                        Why passkey apps treat Windows differently than other operating systems. \n                    "
+  },
+  {
+    "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
+    "link": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
+    "date": "Wed, 05 Aug 2026 22:35:20 +0000",
+    "description": "\n                        Baseboard management controllers from the world's biggest manufacturers are a security mess.\n                    "
+  },
+  {
+    "title": "Claude published malicious code to the Internet and attacked 3 real companies",
+    "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+    "date": "Fri, 31 Jul 2026 20:39:14 +0000",
+    "description": "\n                        Had the hacks used conventional methods, someone would likely go to prison. \n                    "
+  },
+  {
+    "title": "Max-severity Exchange server flaw under active exploitation by Kremlin hackers",
+    "link": "https://arstechnica.com/security/2026/07/kremlin-hackers-are-exploiting-exchange-flaw-to-backdoor-unpatched-networks/",
+    "date": "Thu, 30 Jul 2026 20:57:22 +0000",
+    "description": "\n                        Exploits can give persistent server access that survives credential rotation and disk re-imaging.\n                    "
+  },
+  {
+    "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
+    "link": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
+    "date": "Wed, 29 Jul 2026 22:07:06 +0000",
+    "description": "\n                        HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos.\n                    "
+  },
+  {
+    "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+    "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+    "date": "Tue, 28 Jul 2026 21:36:39 +0000",
+    "description": "\n                        10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.\n                    "
+  },
+  {
+    "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+    "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+    "date": "Mon, 27 Jul 2026 21:56:14 +0000",
+    "description": "\n                        Microsoft says tools cost less than competing ones and outperform them, too.\n                    "
+  },
+  {
+    "title": "TreeSize won't renew perpetual-license support unless users subscribe",
+    "link": "https://arstechnica.com/gadgets/2026/07/treesize-wont-renew-perpetual-license-support-unless-users-subscribe/",
+    "date": "Tue, 21 Jul 2026 15:18:23 +0000",
+    "description": "\n                        \"Current economic conditions\" have shifted TreeSize's business model. \n                    "
+  },
+  {
+    "title": "HP fined 1.4 billion rupees for “cartelization” of ink cartridges, toner, PCs",
+    "link": "https://arstechnica.com/gadgets/2026/07/hp-fined-1-4-billion-rupees-for-cartelization-of-ink-cartridges-toner-pcs/",
+    "date": "Thu, 16 Jul 2026 22:02:31 +0000",
+    "description": "\n                        Resellers threatened to ditch HP printing supplies for counterfeits. \n                    "
+  },
+  {
+    "title": "Now, even Russia's most elite hackers are using Clickfix to infect devices",
+    "link": "https://arstechnica.com/security/2026/07/now-even-russias-most-elite-hackers-are-using-clickfix-to-infect-devices/",
+    "date": "Thu, 16 Jul 2026 19:28:33 +0000",
+    "description": "\n                        The social-engineering technique has primarily been a tool of financially motivated criminals.\n                    "
+  }
+]

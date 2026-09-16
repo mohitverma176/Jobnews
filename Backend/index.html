@@ -1,0 +1,149 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <input type="text" placeholder="job role" id="job-role">
+    <button onclick="serchBox()">Search</button>
+    <a></a>
+    <div id="result"></div>
+    <button onclick="getnews()">News</button>
+    <div id="news"></div>
+    <input type="text" placeholder="news name" id="new-details">
+    <button onclick="serchNews()" id="newssearch">Search</button>
+    <div id="news-result"></div>
+    <script>
+        const API_BASE = window.location.protocol === 'file:' ? 'http://localhost:8000' : '';
+
+        async function serchBox(){
+            const jobName=document.getElementById("job-role").value;
+            const result = document.getElementById("result");
+            result.innerHTML = `<p style="color: #666;">Searching jobs...</p>`;
+
+            try {
+                const response=await fetch(`${API_BASE}/search`,{
+                    method:"POST",
+                    headers: {
+                        "Content-Type": "application/json"
+                    },
+                    body: JSON.stringify({
+                        jobName: jobName
+                    })
+                });
+               
+                if (!response.ok) {
+                    throw new Error(`Server returned ${response.status}`);
+                }
+
+                const data = await response.json();
+
+                if (data.error || data.message) {
+                    result.innerHTML = `<p style="color: red;">${data.error || data.message}</p>`;
+                } else if (Array.isArray(data) && data.length > 0) {
+                    let jobsHtml = "";
+                    data.forEach(job => {
+                        const company = job.company_name || job.company || job.companyName || 'Featured Company';
+                        const jobType = (Array.isArray(job.job_types) ? job.job_types.join(', ') : job.job_types) || job.job_type || job.employmentType || 'Full Time';
+                        const location = job.location || (Array.isArray(job.locationRestrictions) ? job.locationRestrictions.join(', ') : 'Remote / Multiple');
+                        const applyUrl = job.url || job.apply_link || job.applicationLink || '#';
+
+                        jobsHtml += `
+                            <div style="border: 1px solid #ccc; padding: 12px; margin-bottom: 12px; border-radius: 6px;">
+                                <h3 style="margin-top: 0;">${job.title || job.job_title}</h3>
+                                <p><strong>Company:</strong> ${company}</p>
+                                <p><strong>Job Type:</strong> ${jobType}</p>
+                                <p><strong>Location:</strong> ${location}</p>
+                                <a href="${applyUrl}" target="_blank" rel="noopener noreferrer">View & Apply ↗</a>
+                            </div>
+                        `;
+                    });
+                    result.innerHTML = jobsHtml;
+                } else {
+                    result.innerHTML = `<p style="color: red;">No jobs found for "${jobName}"</p>`;
+                }
+            } catch (error) {
+                result.innerHTML = `<p style="color: red;">Error fetching jobs: ${error.message}. Make sure backend server is running on http://localhost:8000</p>`;
+            }
+        }
+
+        async function getnews(){
+             const newsEl = document.getElementById("news");
+             newsEl.innerHTML = `<p style="color: #666;">Loading latest news...</p>`;
+
+             try {
+                 const response=await fetch(`${API_BASE}/news`);
+                 
+                 if (!response.ok) {
+                     throw new Error('Server returned ' + response.status);
+                 }
+                 
+                 const data= await response.json();
+                 
+                 if (data.error || data.message) {
+                     newsEl.innerHTML = `<p style="color: red;">${data.error || data.message}</p>`;
+                     return;
+                 }
+                 
+                 let newsHtml = "";
+                 data.forEach(article => {
+                     newsHtml += `
+                         <div style="margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px solid #eee;">
+                             <h3 style="margin-bottom: 4px;">${article.title || 'No Title'}</h3>
+                             <p style="color: #888; font-size: 12px; margin-top: 0;">${article.date || ''}</p>
+                             <p>${article.description || ''}</p>
+                             <a href="${article.link || '#'}" target="_blank" rel="noopener noreferrer">Read More ↗</a>
+                         </div>
+                     `;
+                 });
+                 
+                 newsEl.innerHTML = newsHtml || '<p>No news available.</p>';
+             } catch (error) {
+                 newsEl.innerHTML = `<p style="color: red;">Error loading news: ${error.message}. Make sure backend is running on http://localhost:8000</p>`;
+             }
+        }
+
+        async function serchNews(){
+             const newsResult = document.getElementById("news-result");
+             const newssearch=document.getElementById("new-details").value;
+             newsResult.innerHTML = `<p style="color: #666;">Searching news...</p>`;
+
+             try {
+                 const response=await fetch(`${API_BASE}/search/news`,{
+                     method:"POST",
+                     headers: {
+                         "Content-Type": "application/json"
+                     },
+                     body: JSON.stringify({
+                         newssearch: newssearch
+                     })
+                 });
+                 
+                 if (!response.ok) {
+                     throw new Error('Server returned ' + response.status);
+                 }
+                 
+                 const data= await response.json();
+                 
+                 let newsHtml = "";
+                 data.forEach(article => {
+                     newsHtml += `
+                         <div style="margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px solid #eee;">
+                             <h3 style="margin-bottom: 4px;">${article.title}</h3>
+                             <p style="color: #888; font-size: 12px; margin-top: 0;">${article.date || ''}</p>
+                             <p>${article.description || ''}</p>
+                             <a href="${article.link}" target="_blank" rel="noopener noreferrer">Read More ↗</a>
+                         </div>
+                     `;
+                 });
+                 
+                 newsResult.innerHTML = newsHtml || `<p style="color: red;">No news found matching "${newssearch}".</p>`;
+             } catch (error) {
+                 newsResult.innerHTML = `<p style="color: red;">Error searching news: ${error.message}</p>`;
+             }
+        }
+    </script>
+</body>
+</html> -->

@@ -1,0 +1,227 @@
+[
+  {
+    "title": "Announcement: We've Updated The Rules, and April Is Finally Over",
+    "author": "/u/ChemicalRascal",
+    "published": "2026-05-23T13:54:37+00:00",
+    "updated": "2026-05-23T13:54:37+00:00",
+    "content": "<!-- SC_OFF --><div class=\"md\"><p>After <a href=\"https://www.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/\">temporarily banning LLM-related content over April</a>, and <a href=\"https://www.reddit.com/r/programming/comments/1t4odyl/looking_for_feedback_on_ai_content_in/\">asking you for feedback on that ban</a>, we&#39;ve decided to bring about an end of the temporary, I-can&#39;t-believe-it&#39;s-still-April ban on AI-related posts.</p> <p>Replacing the trial rule is a new shiny rule that refers to our new shiny <a href=\"https://www.reddit.com/r/programming/wiki/ai-policy/\">AI policy</a>. In short:</p> <blockquote> <p>Content about AI and LLMs are considered off-topic with the sole exclusion of <strong>deeply technical</strong> content about implementation.</p> </blockquote> <p>And if you want more detail than that, go read the policy, that&#39;s what it&#39;s there for.</p> <p>In addition, when writing that rule, I realized the rules weren&#39;t listed on the <a href=\"http://old.reddit.com\">old.reddit.com</a> sidebar, so that&#39;s been updated. For those of you who are seeing those rules for the first time, everything there is not new. We&#39;ve been enforcing those rules as best we can for ages. You can click the link above those to get to the old.reddit rules page, with plenty of info that doesn&#39;t exactly read well when crammed into a sidebar.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ChemicalRascal\"> /u/ChemicalRascal </a> <br/> <span><a href=\"https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/\">[comments]</a></span>",
+    "url": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
+    "subreddit": "programming"
+  },
+  {
+    "title": "How To Report A Bug So It Actually Gets Fixed",
+    "author": "/u/tymscar",
+    "published": "2026-08-23T16:08:26+00:00",
+    "updated": "2026-08-23T16:08:26+00:00",
+    "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/tymscar\"> /u/tymscar </a> <br/> <span><a href=\"https://blog.tymscar.com/posts/howtoreportabug/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1vwb745/how_to_report_a_bug_so_it_actually_gets_fixed/\">[comments]</a></span>",
+    "url": "https://www.reddit.com/r/programming/comments/1vwb745/how_to_report_a_bug_so_it_actually_gets_fixed/",
+    "subreddit": "programming"
+  },
+  {
+    "title": "How to Design an Animation",
+    "author": "/u/kciter",
+    "published": "2026-08-23T14:44:41+00:00",
+    "updated": "2026-08-23T14:44:41+00:00",
+    "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/kciter\"> /u/kciter </a> <br/> <span><a href=\"https://kciter.so/posts/how-to-design-animation/en/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1vw91lz/how_to_design_an_animation/\">[comments]</a></span>",
+    "url": "https://www.reddit.com/r/programming/comments/1vw91lz/how_to_design_an_animation/",
+    "subreddit": "programming"
+  },
+  {
+    "title": "The unlikely Linux macro",
+    "author": "/u/chaobang",
+    "published": "2026-08-22T23:33:30+00:00",
+    "updated": "2026-08-22T23:33:30+00:00",
+    "content": "<!-- SC_OFF --><div class=\"md\"><p>Wrote a bit about the `unlikely` and `likely` macros in the Linux codebase. Great little exploration into tiny optimizations that everyone should know more about 😄 </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/chaobang\"> /u/chaobang </a> <br/> <span><a href=\"https://rushed-reflections.bearblog.dev/an-unlikely-experiment/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1vvrbyb/the_unlikely_linux_macro/\">[comments]</a></span>",
+    "url": "https://www.reddit.com/r/programming/comments/1vvrbyb/the_unlikely_linux_macro/",
+    "subreddit": "programming"
+  },
+  {
+    "title": "Compiler Optimizations",
+    "author": "/u/theapplebi",
+    "published": "2026-08-23T07:51:28+00:00",
+    "updated": "2026-08-23T07:51:28+00:00",
+    "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/theapplebi\"> /u/theapplebi </a> <br/> <span><a href=\"https://youtu.be/BOrAVwwCXq8\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1vw0y4v/compiler_optimizations/\">[comments]</a></span>",
+    "url": "https://www.reddit.com/r/programming/comments/1vw0y4v/compiler_optimizations/",
+    "subreddit": "programming"
+  },
+  {
+    "title": "How a 128 MB Windows CE Device Taught Me Debugging",
+    "author": "/u/phucphungbk",
+    "published": "2026-08-23T10:53:37+00:00",
+    "updated": "2026-08-23T10:53:37+00:00",
+    "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/phucphungbk\"> /u/phucphungbk </a> <br/> <span><a href=\"https://github.com/phucphungbk/my-blog/blob/main/posts/windows-ce-debugging.md\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1vw433z/how_a_128_mb_windows_ce_device_taught_me_debugging/\">[comments]</a></span>",
+    "url": "https://www.reddit.com/r/programming/comments/1vw433z/how_a_128_mb_windows_ce_device_taught_me_debugging/",
+    "subreddit": "programming"
+  },
+  {
+    "title": "Why so many languages use LLVM",
+    "author": "/u/Ok_Marionberry8922",
+    "published": "2026-08-23T13:17:17+00:00",
+    "updated": "2026-08-23T13:17:17+00:00",
+    "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Ok_Marionberry8922\"> /u/Ok_Marionberry8922 </a> <br/> <span><a href=\"https://youtu.be/grjThkqV7uU?si=ei9cvzSS69v0MDS7\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1vw6z10/why_so_many_languages_use_llvm/\">[comments]</a></span>",
+    "url": "https://www.reddit.com/r/programming/comments/1vw6z10/why_so_many_languages_use_llvm/",
+    "subreddit": "programming"
+  },
+  {
+    "title": "Debugging Starcraft RTS Micro (Starcraft Bot Competition)",
+    "author": "/u/LaughNgamez",
+    "published": "2026-08-23T00:06:45+00:00",
+    "updated": "2026-08-23T00:06:45+00:00",
+    "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/LaughNgamez\"> /u/LaughNgamez </a> <br/> <span><a href=\"https://youtu.be/e1mMWAbf0XQ?si=Li2XS1mM3aswJfXY\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1vvs2tt/debugging_starcraft_rts_micro_starcraft_bot/\">[comments]</a></span>",
+    "url": "https://www.reddit.com/r/programming/comments/1vvs2tt/debugging_starcraft_rts_micro_starcraft_bot/",
+    "subreddit": "programming"
+  },
+  {
+    "title": "Finding a hidden Mersenne Twister implementation inside a 15 year old game binary",
+    "author": "/u/JizosKasa",
+    "published": "2026-08-21T15:49:54+00:00",
+    "updated": "2026-08-21T15:49:54+00:00",
+    "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/JizosKasa\"> /u/JizosKasa </a> <br/> <span><a href=\"https://medium.com/@jizoskasa/i-reverse-engineered-plants-vs-zombies-to-answer-one-very-specific-question-557637a68a3e\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1vuk4b5/finding_a_hidden_mersenne_twister_implementation/\">[comments]</a></span>",
+    "url": "https://www.reddit.com/r/programming/comments/1vuk4b5/finding_a_hidden_mersenne_twister_implementation/",
+    "subreddit": "programming"
+  },
+  {
+    "title": "The Pit Of Success",
+    "author": "/u/Maybe-monad",
+    "published": "2026-08-22T08:57:36+00:00",
+    "updated": "2026-08-22T08:57:36+00:00",
+    "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Maybe-monad\"> /u/Maybe-monad </a> <br/> <span><a href=\"https://youtu.be/48Rig6v-xYU?is=gA6PbvvpM-yaB-Vz\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1vv78fc/the_pit_of_success/\">[comments]</a></span>",
+    "url": "https://www.reddit.com/r/programming/comments/1vv78fc/the_pit_of_success/",
+    "subreddit": "programming"
+  },
+  {
+    "title": "Next.js Dynamic Routes now also available in Faces!",
+    "author": "/u/henk53",
+    "published": "2026-08-22T15:17:41+00:00",
+    "updated": "2026-08-22T15:17:41+00:00",
+    "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/henk53\"> /u/henk53 </a> <br/> <span><a href=\"https://balusc.omnifaces.org/2026/08/nextjs-dynamic-routes-now-also.html\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1vvf3p0/nextjs_dynamic_routes_now_also_available_in_faces/\">[comments]</a></span>",
+    "url": "https://www.reddit.com/r/programming/comments/1vvf3p0/nextjs_dynamic_routes_now_also_available_in_faces/",
+    "subreddit": "programming"
+  },
+  {
+    "title": "The August 17 outage, and the work ahead",
+    "author": "/u/Successful_Bowl2564",
+    "published": "2026-08-20T19:35:06+00:00",
+    "updated": "2026-08-20T19:35:06+00:00",
+    "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Successful_Bowl2564\"> /u/Successful_Bowl2564 </a> <br/> <span><a href=\"https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1vttlns/the_august_17_outage_and_the_work_ahead/\">[comments]</a></span>",
+    "url": "https://www.reddit.com/r/programming/comments/1vttlns/the_august_17_outage_and_the_work_ahead/",
+    "subreddit": "programming"
+  },
+  {
+    "title": "Pitfalls of Benchmarking on Modern Systems",
+    "author": "/u/mttd",
+    "published": "2026-08-21T05:50:37+00:00",
+    "updated": "2026-08-21T05:50:37+00:00",
+    "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/mttd\"> /u/mttd </a> <br/> <span><a href=\"https://stefan-marr.de/2026/08/pitfalls-of-benchmarking-on-modern-systems/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1vu7o3x/pitfalls_of_benchmarking_on_modern_systems/\">[comments]</a></span>",
+    "url": "https://www.reddit.com/r/programming/comments/1vu7o3x/pitfalls_of_benchmarking_on_modern_systems/",
+    "subreddit": "programming"
+  },
+  {
+    "title": "Music theory for programmers",
+    "author": "/u/lukehaas",
+    "published": "2026-08-20T15:08:03+00:00",
+    "updated": "2026-08-20T15:08:03+00:00",
+    "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/lukehaas\"> /u/lukehaas </a> <br/> <span><a href=\"https://runjs.app/blog/music-theory-for-programmers\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1vtm44m/music_theory_for_programmers/\">[comments]</a></span>",
+    "url": "https://www.reddit.com/r/programming/comments/1vtm44m/music_theory_for_programmers/",
+    "subreddit": "programming"
+  },
+  {
+    "title": "The Great Android Stack Reset: Mobile System Design History",
+    "author": "/u/Super-Performance-86",
+    "published": "2026-08-21T08:36:28+00:00",
+    "updated": "2026-08-21T08:36:28+00:00",
+    "content": "<!-- SC_OFF --><div class=\"md\"><p>Android, the last to arrive at the declarative UI party, took its time, until finally reaching a stable solution. Here&#39;s a rundown of the major changes in the Android System Design across the eras.</p> <p>I was away from Android for 7 years and came home to a totally strange place. This is my attempt to make sense of what happened while I was gone - how the stack reset four times (Activities -&gt; MVP/RxJava -&gt; Architecture Components -&gt; Compose) and why each lurch happened. Written for interview prep but the history stands on its own.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Super-Performance-86\"> /u/Super-Performance-86 </a> <br/> <span><a href=\"https://returnzero.dev/articles/android-mobile-system-design-history\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1vuaimm/the_great_android_stack_reset_mobile_system/\">[comments]</a></span>",
+    "url": "https://www.reddit.com/r/programming/comments/1vuaimm/the_great_android_stack_reset_mobile_system/",
+    "subreddit": "programming"
+  },
+  {
+    "title": "Supply chain attack on arrayref",
+    "author": "/u/Successful_Bowl2564",
+    "published": "2026-08-20T15:05:52+00:00",
+    "updated": "2026-08-20T15:05:52+00:00",
+    "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Successful_Bowl2564\"> /u/Successful_Bowl2564 </a> <br/> <span><a href=\"https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1vtm22r/supply_chain_attack_on_arrayref/\">[comments]</a></span>",
+    "url": "https://www.reddit.com/r/programming/comments/1vtm22r/supply_chain_attack_on_arrayref/",
+    "subreddit": "programming"
+  },
+  {
+    "title": "Quake Shareware, a CD-ROM just a little too full - Fabien Sanglard",
+    "author": "/u/NXGZ",
+    "published": "2026-08-20T12:44:02+00:00",
+    "updated": "2026-08-20T12:44:02+00:00",
+    "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/NXGZ\"> /u/NXGZ </a> <br/> <span><a href=\"https://fabiensanglard.net/quake_shareware_cd/index.html\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1vtih22/quake_shareware_a_cdrom_just_a_little_too_full/\">[comments]</a></span>",
+    "url": "https://www.reddit.com/r/programming/comments/1vtih22/quake_shareware_a_cdrom_just_a_little_too_full/",
+    "subreddit": "programming"
+  },
+  {
+    "title": "TypeScript : Migrate repo to TypeScript 7",
+    "author": "/u/mariuz",
+    "published": "2026-08-20T15:41:21+00:00",
+    "updated": "2026-08-20T15:41:21+00:00",
+    "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/mariuz\"> /u/mariuz </a> <br/> <span><a href=\"https://github.com/microsoft/TypeScript/pull/63763\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1vtn0qa/typescript_migrate_repo_to_typescript_7/\">[comments]</a></span>",
+    "url": "https://www.reddit.com/r/programming/comments/1vtn0qa/typescript_migrate_repo_to_typescript_7/",
+    "subreddit": "programming"
+  },
+  {
+    "title": "Rebuilding the Linux microVM stack on Apple Silicon",
+    "author": "/u/Shot-Reporter-2443",
+    "published": "2026-08-20T17:34:13+00:00",
+    "updated": "2026-08-20T17:34:13+00:00",
+    "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Shot-Reporter-2443\"> /u/Shot-Reporter-2443 </a> <br/> <span><a href=\"https://encore.dev/blog/firecracker-apple-silicon\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1vtq4qt/rebuilding_the_linux_microvm_stack_on_apple/\">[comments]</a></span>",
+    "url": "https://www.reddit.com/r/programming/comments/1vtq4qt/rebuilding_the_linux_microvm_stack_on_apple/",
+    "subreddit": "programming"
+  },
+  {
+    "title": "Turns are Better than Radians",
+    "author": "/u/Iamsodarncool",
+    "published": "2026-08-19T23:22:08+00:00",
+    "updated": "2026-08-19T23:22:08+00:00",
+    "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Iamsodarncool\"> /u/Iamsodarncool </a> <br/> <span><a href=\"https://www.computerenhance.com/p/turns-are-better-than-radians\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1vt2lzu/turns_are_better_than_radians/\">[comments]</a></span>",
+    "url": "https://www.reddit.com/r/programming/comments/1vt2lzu/turns_are_better_than_radians/",
+    "subreddit": "programming"
+  },
+  {
+    "title": "Embedding models benchmark for code duplication detection",
+    "author": "/u/rafal-kochanowski",
+    "published": "2026-08-21T11:05:06+00:00",
+    "updated": "2026-08-21T11:05:06+00:00",
+    "content": "<!-- SC_OFF --><div class=\"md\"><p>For those who prefer to read the code instead of text, source code is <a href=\"https://github.com/rafal-qa/embedding-benchmark\">available on GitHub</a>.</p> <p>Relying only on model specification or common benchmarks, we can&#39;t predict how it would perform in a specific use case like detecting duplicated code.</p> <p>Focused evaluation revealed, for example, that a general-purpose model can be better than dedicated for code. Or that small model can outperform big providers.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/rafal-kochanowski\"> /u/rafal-kochanowski </a> <br/> <span><a href=\"https://rkochanowski.com/article/embedding-benchmark/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1vud8h6/embedding_models_benchmark_for_code_duplication/\">[comments]</a></span>",
+    "url": "https://www.reddit.com/r/programming/comments/1vud8h6/embedding_models_benchmark_for_code_duplication/",
+    "subreddit": "programming"
+  },
+  {
+    "title": "Building certgrep.sh: a free CT search engine",
+    "author": "/u/JDBHub",
+    "published": "2026-08-20T17:16:38+00:00",
+    "updated": "2026-08-20T17:16:38+00:00",
+    "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/JDBHub\"> /u/JDBHub </a> <br/> <span><a href=\"https://haveibeensquatted.com/blog/building-certgrep\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1vtpng5/building_certgrepsh_a_free_ct_search_engine/\">[comments]</a></span>",
+    "url": "https://www.reddit.com/r/programming/comments/1vtpng5/building_certgrepsh_a_free_ct_search_engine/",
+    "subreddit": "programming"
+  },
+  {
+    "title": "Succinct and Fast Tiny Pointer Hash Tables",
+    "author": "/u/mttd",
+    "published": "2026-08-20T05:42:09+00:00",
+    "updated": "2026-08-20T05:42:09+00:00",
+    "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/mttd\"> /u/mttd </a> <br/> <span><a href=\"https://arxiv.org/abs/2607.28892\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1vtaprg/succinct_and_fast_tiny_pointer_hash_tables/\">[comments]</a></span>",
+    "url": "https://www.reddit.com/r/programming/comments/1vtaprg/succinct_and_fast_tiny_pointer_hash_tables/",
+    "subreddit": "programming"
+  },
+  {
+    "title": "Generic Methods in Go 1.27",
+    "author": "/u/ErneuerbareEnergien",
+    "published": "2026-08-20T15:32:27+00:00",
+    "updated": "2026-08-20T15:32:27+00:00",
+    "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ErneuerbareEnergien\"> /u/ErneuerbareEnergien </a> <br/> <span><a href=\"https://dominik.info/blog/go-generic-methods/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1vtmrxk/generic_methods_in_go_127/\">[comments]</a></span>",
+    "url": "https://www.reddit.com/r/programming/comments/1vtmrxk/generic_methods_in_go_127/",
+    "subreddit": "programming"
+  },
+  {
+    "title": "Modern Computer Architecture & Organization • Jim Ledin & Maciej «MJ» Jedrzejewski • GOTO 2026",
+    "author": "/u/goto-con",
+    "published": "2026-08-20T12:47:19+00:00",
+    "updated": "2026-08-20T12:47:19+00:00",
+    "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/goto-con\"> /u/goto-con </a> <br/> <span><a href=\"https://youtu.be/u7k1l_qkQH8?list=PLEx5khR4g7PJbSLmADahf0LOpTLifiCra\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1vtijql/modern_computer_architecture_organization_jim/\">[comments]</a></span>",
+    "url": "https://www.reddit.com/r/programming/comments/1vtijql/modern_computer_architecture_organization_jim/",
+    "subreddit": "programming"
+  }
+]

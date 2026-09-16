@@ -1,0 +1,902 @@
+
+{
+
+      "comments": "13/03/2026: The API has been updated to include the companySlug field in the response.",
+      "updatedAt": 1786938365,
+      "offset": 0,
+      "limit": 20,
+      "totalCount": 102761,
+      "jobs": [
+            {
+                  "title": "Autotech Training Content Developer",
+                  "excerpt": "Position Mission: This position is responsible for development of quality, effective training content for wholesale customers (AutoCare, Major Accounts, Independents).",
+                  "companyName": "Genuine Parts Company",
+                  "companySlug": "genuine-parts-company",
+                  "companyLogo": "https://cdn-images.himalayas.app/vy0bl7y3mo7ebrgsl9f7gr5fj9hg",
+                  "employmentType": "Full Time",
+                  "minSalary": null,
+                  "maxSalary": null,
+                  "salaryPeriod": "annual",
+                  "seniority": [
+                        "Mid-level"
+                  ],
+                  "currency": null,
+                  "locationRestrictions": [
+                        "United States"
+                  ],
+                  "timezoneRestrictions": [
+                        -10,
+                        -9,
+                        -8,
+                        -7,
+                        -6,
+                        -5,
+                        14
+                  ],
+                  "categories": [
+                        "Training-Content-Development",
+                        "Instructional-Design",
+                        "Curriculum-Development",
+                        "Training-program-development",
+                        "Learning-and-Development",
+                        "Automotive-Instructional-Designer",
+                        "Training-Content-Developer",
+                        "Automotive-Training-Specialist",
+                        "Learning-Content-Developer",
+                        "Technical-Content-Developer",
+                        "ELearning-Content-Developer",
+                        "Training-Content-Designer",
+                        "Training-Content-Specialist",
+                        "Content-Developer",
+                        "Developer"
+                  ],
+                  "parentCategories": [
+                        "Content Creator",
+                        "Developer"
+                  ],
+                  "description": "<h3>Position Mission: </h3><p>This position is responsible for development of quality, effective training content for wholesale customers (AutoCare, Major Accounts, Independents). The dynamic training solutions and successful execution should result in an improved customer experience, enhanced relationships and improved sales with wholesale customers. The training content developed by this position will be focused on: product knowledge, equipment operation, and comprehensive development of technical skills (automotive, truck, tools and equipment). The training content must be fully embraced by employees, associates and management because they are efficient and effective in knowledge/skills transfer and driving business results. </p><h3>Position Performance Measures: </h3><ul>\n<li>Development of needed, quality training content on time and on budget according to plan <br>• Adoption and utilization of training solutions as measured by participation of intended audiences versus benchmarks <br>• Development of quality communications which inform, promote and report important information to Autotech managers and participants. <br><br>Responsibilities: The following section contains the primary responsibilities for this position. <br><br>• Assesses and determines NAPA Autotech audience training needs by interviewing, conducting advisory input sessions, surveys and on-site visits with managers, store owners, employees, associates, customers, suppliers and external resources. <br>• Identifies and utilizes appropriate internal and external subject matter experts in the assessment, development and review process to ensure training solutions support best practices and desired business results. <br>• Identifies and employs quality, effective and affordable training development resources to produce needed training solutions. <br>• Maintains existing training solutions using current training techniques and technology. <br>• Utilizes effective technology for development, production and delivery of training solutions and tools (software, Internet, webcasts, simulations, virtual reality, etc.). <br>• Training solutions should be customer driven through needs assessment and formal survey methods. <br>• Establishes and tracks effectiveness metrics of training solutions during and post implementation and utilizes data to adjust approach or for update considerations. <br>• Utilizes review process to ensure technical accuracy of all material. <br>• Coordinates communication and administrative duties related to curriculum development. <br>• Establishes and reinforces responsibilities and accountabilities for NAPA Autotech training instructors and other subject matter experts to assist with curriculum development and execution. <br>• Works closely with other APG / NAPA departments, suppliers, field sales teams and resources as well as customers to align training solutions with APG initiatives. <br>• Seeks industry experts and qualified resources to author and collaborate on specific training solutions. <br>• Follows best practice assessment, development, pilot, execution and evaluation of training solutions. <br>• Follows best practice formatting and publishing techniques that result in quality reflective of NAPA standards. <br>• Develops and maintains effective, structured, progressive and executable curriculum tracks for intended audiences and utilize appropriate learning development tools, Learning Management System and other software and technology available. <br>• Seeks opportunities to be engaged with industry and training groups. <br>• Performs other duties and activities as assigned. For example, involved with initiatives such as: ASE, the Automotive Training Group, AAA, etc. <br><br>Experience, Education, and Abilities: <br><br>• 5 - 7 years of experience in sales, sales training, parts or wholesale customer operations, training program development <br>• Large project management experience and use of PM tools <br>• Undergraduate degree in related fields preferred <br>• Previous experience in large organization in a training/learning environment <br>• Proficient in MS Office software -Word, Excel, Powerpoint, learning development tools (Articulate, Captivate, video, audio and graphical programs, etc.) </li>\n</ul><h3>• Willing to travel</h3><p>Not the right fit?  Let us know you're interested in a future opportunity by joining our Talent Community onor create an account to set up email alerts as new job postings become available that meet your interest!</p><p>GPC conducts its business without regard to sex, race, creed, color, religion, marital status, national origin, citizenship status, age, pregnancy, sexual orientation, gender identity or expression, genetic information, disability, military status, status as a veteran, or any other protected characteristic. GPC's policy is to recruit, hire, train, promote, assign, transfer and terminate employees based on their own ability, achievement, experience and conduct and other legitimate business reasons.</p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+                  "pubDate": 1786938365,
+                  "expiryDate": 1792122364,
+                  "applicationLink": "https://himalayas.app/companies/genuine-parts-company/jobs/autotech-training-content-developer",
+                  "guid": "https://himalayas.app/companies/genuine-parts-company/jobs/autotech-training-content-developer"
+            },
+            {
+                  "title": "Senior Full-Stack Engineer (React) - Brazil",
+                  "excerpt": "We are seeking a highly skilled and motivated Senior Software Engineer (React) who shares our values of pragmatism, professionalism, and transparency, and who is eager to work in forward-thinking, collaborative teams.",
+                  "companyName": "Codurance",
+                  "companySlug": "codurance",
+                  "companyLogo": "https://cdn-images.himalayas.app/2h466s3bpuwis6dx7ci6w4e3evtv",
+                  "employmentType": "Full Time",
+                  "minSalary": null,
+                  "maxSalary": null,
+                  "salaryPeriod": "annual",
+                  "seniority": [
+                        "Senior"
+                  ],
+                  "currency": null,
+                  "locationRestrictions": [
+                        "Brazil"
+                  ],
+                  "timezoneRestrictions": [
+                        -5,
+                        -4,
+                        -3,
+                        -2
+                  ],
+                  "categories": [
+                        "Fullstack-Development",
+                        "Frontend-Development",
+                        "Software-Engineer",
+                        "Web-Development",
+                        "Backend-Development",
+                        "Senior-Full-Stack-Engineer-(React-Node.Js)",
+                        "Desenvolvedor-Senior-Full-Stack",
+                        "Senior-Full-Stack-Developer-(React-Node.Js)",
+                        "Senior-Frontend-Full-Stack-Engineer",
+                        "Full-Stack-Engineer"
+                  ],
+                  "parentCategories": [
+                        "Developer"
+                  ],
+                  "description": "<p>We are seeking a highly skilled and motivated <strong>Senior Software Engineer (React)</strong> who shares our values of pragmatism, professionalism, and transparency, and who is eager to work in forward-thinking, collaborative teams.</p><p>In this role, you will support our clients across a wide range of internal and consultancy projects, designing, building, and evolving <strong>high-quality web applications</strong> with a strong focus on performance, maintainability, accessibility, and scalability. This is a client-facing role where you will help teams deliver excellent front-end solutions, influence technical direction, and contribute to consistent engineering practices across engagements.<br><br><strong>Our Culture</strong><br>We are a transparent organization; salary bandings and company finances are shared with employees from day one. We have a <strong>flat management structure</strong>, and everyone has an equal voice in improving our business. Got an idea? Find two colleagues who share your vision, form an ‘initiative circle,’ and bring it to life.</p><p>Continuous learning is at the heart of everything we do. Whether attending evening tech sessions, reading articles, listening to podcasts, or presenting at conferences, everyone in our team is always looking for ways to improve and <strong>eager to share knowledge</strong> with their colleagues.</p><h3>Requirements</h3><ul><ul>\n<li>Deep knowledge and hands-on experience with <strong>React &amp; TypeScript</strong>, including hooks, global state management, and component architecture </li>\n<li> Strong back-end experience with deep technical expertise in at least one of the following:<br><strong>Golang / Java / C# .NET / PHP</strong>\n</li>\n<li> Experience with <strong>AWS</strong> (Lambda, API Gateway, S3, DynamoDB, or similar) or <strong>Azure</strong>\n</li>\n<li> Familiarity with modern development practices (TDD, CI/CD, Git) </li>\n<li> Testing experience with <strong>Cypress or Playwright</strong>\n</li>\n<li> Ability to design and consume <strong>RESTful APIs</strong>\n</li>\n<li> Understanding of scalable and distributed architectures (monolith, modular, microservices, event-driven, batch/ETL) </li>\n<li> Strong collaboration skills and experience working in cross-functional teams </li>\n</ul></ul><h3>Databases (Data Layer)</h3><ul><ul>\n<li> Relacional: PostgreSQL, MySQL, SQL Server (at least one) </li>\n<li> NoSQL: MongoDB, DynamoDB, Cassandra (at least one) </li>\n</ul></ul><h3>Benefits</h3><p>Everyone should have the right to bring their whole self to work and be celebrated for who they are. Our people are hired purely on their commitment to these values and their ambition to deliver outstanding results for our clients. <a href=\"https://himalayas.app/companies/codurance\">Codurance</a> is proud to be an Equal Opportunities Employer and is committed to fostering an inclusive workplace.</p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+                  "pubDate": 1786938306,
+                  "expiryDate": 1792122305,
+                  "applicationLink": "https://himalayas.app/companies/codurance/jobs/senior-full-stack-engineer-react-brazil-2806597653",
+                  "guid": "https://himalayas.app/companies/codurance/jobs/senior-full-stack-engineer-react-brazil-2806597653"
+            },
+            {
+                  "title": "Content & Marketing Assistant  for Virtual Coworker (Home Based Part Time)",
+                  "excerpt": "Category: Recruitment Location: Sydney New South Wales Australia Blog & Content Support - US/AU/PH • Upload and format blog articles on the website (AU & US audiences) • Ensure blogs are properly structured with headings, images, and links • Assist with blog banners and formatting • Coordinate blog publishing with the marketing team Website Updates • Assist with website content updates and page edits • Upload new content such as articles, announcements, and press releases • Support updates for website banners and visuals • Help maintain website content organization Email Marketing • Assist with formatting and preparing email newsletters • Upload email campaigns into the email marketing platform • Support the design and placement of newsletter banners and visuals • Assist with email signature updates Marketing & Campaign Coordination • Support preparation for marketing campaigns and launches • Coordinate assets and materials needed for campaigns • Assist with tracking basic campaign performance metrics Social Media Collaboration • Work closely with the Social Media Manager and team • Assist in preparing content for social media campaigns • Help schedule posts when needed • Support social media activities related to campaign launches Internal & External Events • Assist with communications for internal team events (birthdays, anniversaries, celebrations) • Support announcements for external events and community initiatives • Help prepare visuals or content needed for event promotions Community & Engagement Support • Assist with Facebook group activities and community posts • Monitor engagement and help organize community campaigns Details",
+                  "companyName": "Virtual Coworker",
+                  "companySlug": "virtual-coworker",
+                  "companyLogo": "https://cdn-images.himalayas.app/n4fb7wgd3gctk7krebkcux2t6btn",
+                  "employmentType": "Part Time",
+                  "minSalary": null,
+                  "maxSalary": null,
+                  "salaryPeriod": "annual",
+                  "seniority": [
+                        "Entry-level"
+                  ],
+                  "currency": null,
+                  "locationRestrictions": [
+                        "Australia"
+                  ],
+                  "timezoneRestrictions": [
+                        8,
+                        8.75,
+                        9,
+                        9.5,
+                        10,
+                        10.5
+                  ],
+                  "categories": [
+                        "Content-Marketing",
+                        "Marketing-Assistant",
+                        "Digital-Marketing",
+                        "Email-Marketing",
+                        "Social-Media-Marketing",
+                        "Marketing-and-Content-Assistant",
+                        "Remote-Marketing-Associate",
+                        "Content-Marketing-Associate",
+                        "Remote-Content-Writer",
+                        "Part-Time-Content-Specialist",
+                        "Content-Marketing-Coordinator",
+                        "Marketing-Virtual-Assistant",
+                        "Marketing-Content-Coordinator",
+                        "Content-Creator"
+                  ],
+                  "parentCategories": [
+                        "Marketing",
+                        "Content Creator"
+                  ],
+                  "description": "Category: Recruitment <br><br>Location: Sydney New South Wales Australia <br><br><br><h3>\n<b>Blog &amp; Content Support - US/AU/PH</b><br>\n</h3><ul>\n<li><p>Upload and format blog articles on the website (AU &amp; US audiences)</p></li>\n<li><p>Ensure blogs are properly structured with headings, images, and links</p></li>\n<li><h3>Assist with blog banners and formatting</h3></li>\n<li><p>Coordinate blog publishing with the marketing team</p></li>\n</ul><h3>\n<b>Website Updates</b><br>\n</h3><ul>\n<li><p>Assist with website content updates and page edits</p></li>\n<li><p>Upload new content such as articles, announcements, and press releases</p></li>\n<li><p>Support updates for website banners and visuals</p></li>\n<li><p>Help maintain website content organization</p></li>\n</ul><h3>\n<b>Email Marketing</b><br>\n</h3><ul>\n<li><p>Assist with formatting and preparing email newsletters</p></li>\n<li><p>Upload email campaigns into the email marketing platform</p></li>\n<li><p>Support the design and placement of newsletter banners and visuals</p></li>\n<li><h3>Assist with email signature updates</h3></li>\n</ul><h3>\n<b>Marketing &amp; Campaign Coordination</b><br>\n</h3><ul>\n<li><p>Support preparation for marketing campaigns and launches</p></li>\n<li><p>Coordinate assets and materials needed for campaigns</p></li>\n<li><p>Assist with tracking basic campaign performance metrics</p></li>\n</ul><h3>\n<b>Social Media Collaboration</b><br>\n</h3><ul>\n<li><p>Work closely with the Social Media Manager and team</p></li>\n<li><p>Assist in preparing content for social media campaigns</p></li>\n<li><h3>Help schedule posts when needed</h3></li>\n<li><p>Support social media activities related to campaign launches</p></li>\n</ul><h3>\n<b>Internal &amp; External Events</b><br>\n</h3><ul>\n<li><p>Assist with communications for internal team events (birthdays, anniversaries, celebrations)</p></li>\n<li><p>Support announcements for external events and community initiatives</p></li>\n<li><p>Help prepare visuals or content needed for event promotions</p></li>\n</ul><h3>\n<b>Community &amp; Engagement Support</b><br>\n</h3><ul>\n<li><p>Assist with Facebook group activities and community posts</p></li>\n<li><p>Monitor engagement and help organize community campaigns</p></li>\n</ul><br><br><br><br>Details<p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+                  "pubDate": 1786938255,
+                  "expiryDate": 1792122254,
+                  "applicationLink": "https://himalayas.app/companies/virtual-coworker/jobs/content-marketing-assistant-for-virtual-coworker-home-based-part-time",
+                  "guid": "https://himalayas.app/companies/virtual-coworker/jobs/content-marketing-assistant-for-virtual-coworker-home-based-part-time"
+            },
+            {
+                  "title": "Senior Channel Account Executive MSP",
+                  "excerpt": "About UsSophos is a cybersecurity leader defending 600,000 organizations globally with an AI-driven platform and expert-led services.",
+                  "companyName": "Sophos",
+                  "companySlug": "sophos",
+                  "companyLogo": "",
+                  "employmentType": "Full Time",
+                  "minSalary": null,
+                  "maxSalary": null,
+                  "salaryPeriod": "annual",
+                  "seniority": [
+                        "Senior"
+                  ],
+                  "currency": null,
+                  "locationRestrictions": [
+                        "United Kingdom"
+                  ],
+                  "timezoneRestrictions": [
+                        0
+                  ],
+                  "categories": [
+                        "Channel-Sales",
+                        "Partner-Sales",
+                        "MSP-Sales",
+                        "Enterprise-Sales",
+                        "Account-Management",
+                        "Channel-Account-Executive",
+                        "Senior-Channel-Sales-Manager",
+                        "Senior-Channel-Manager",
+                        "Channel-Account-Manager"
+                  ],
+                  "parentCategories": [ ],
+                  "description": "<h3>About Us</h3><div>\n<a href=\"https://himalayas.app/companies/sophos\">Sophos</a> is a cybersecurity leader defending 600,000 organizations globally with an AI-driven platform and expert-led services. <a href=\"https://himalayas.app/companies/sophos\">Sophos</a> meets organizations wherever they are in their security maturity and grows with them to defeat cyberattacks. Its solutions combine machine learning, automation, and real-time threat intelligence with frontline human expertise from <a href=\"https://himalayas.app/companies/sophos\">Sophos</a> X-Ops to deliver advanced, 24/7 threat monitoring, detection, and response.</div><div>\n<a href=\"https://himalayas.app/companies/sophos\">Sophos</a> offers industry-leading managed detection and response (MDR) alongside a comprehensive portfolio of cybersecurity technologies — including endpoint, network, email, and cloud security, extended detection and response (XDR), identity threat detection and response (ITDR), and next-gen SIEM. Together with expert advisory services, these capabilities help organizations proactively reduce risk and respond faster, with the visibility and scalability needed to stay ahead of evolving threats.</div><div>\n<a href=\"https://himalayas.app/companies/sophos\">Sophos</a> goes to market with a global partner ecosystem, including Managed Service Providers (MSPs), Managed Security Service Providers (MSSPs), resellers and distributors, marketplace integrations, and cyber risk partners, giving organizations the flexibility to choose trusted relationships when securing their business. <a href=\"https://himalayas.app/companies/sophos\">Sophos</a> is headquartered in Oxford, U.K. More information is available at .</div><h3>Role Summary</h3><p>The Senior Channel Account Executive (MSP CAE) is accountable for managing our most strategic <a href=\"https://himalayas.app/companies/sophos\">Sophos</a> MSP partners. They are responsible for developing joint business plans with partners to hit revenue and proﬁtability targets by developing new customer MSP services, MDR and next-gen portfolio opportunities, as well as new logo, up-sell, cross-sell and renewal conversations with existing customers.</p><h3>What You Will Do:</h3><ul><div>\n<li><p>Develop relationships at all levels across the partner to drive revenue growth and proﬁtability; particularly for MSP and Managed Detection and Response (MDR).</p></li>\n<li><p>Gain a detailed understanding of the partners business, investment areas, and profitability factors to positively influence the joint business plan, that drives incremental opportunities to deliver outstanding growth for the partner and <a href=\"https://himalayas.app/companies/sophos\">Sophos</a>.</p></li>\n<li><p>Strong analytical skills, and demonstrated ability to turn detailed data analysis into useful strategic insight in order to drive customer adoption and make appropriate recommendations to the business - Establish ways to measure and track metrics related to adoption of our solutions and to make improvements to the approach based on those measurements</p></li>\n<li><p>Enable partners to take full advantage of <a href=\"https://himalayas.app/companies/sophos\">Sophos</a>’ comprehensive solution and services portfolio to improve their customer’s security protection and response.</p></li>\n<li><p>Directly support partners to qualify and close complex customer deals, engaging wider sales and sales engineer teams where required to gather insights and ensure accurate business forecasting.</p></li>\n<li><p>Own and manage the frequent joint business review and planning process between Partners and <a href=\"https://himalayas.app/companies/sophos\">Sophos</a> decision makers, incl. clearly deﬁned KPI’s and SMART goals with agreed outcomes.</p></li>\n<li><p>Collaborate to develop marketing plans with partners to drive incremental sales pipeline ensuring high return on investment from activities like lead gen campaigns and events.</p></li>\n<li><p>Coordinate the involvement of <a href=\"https://himalayas.app/companies/sophos\">Sophos</a> staff, including product management, sales, SE, marketing, support, services and management resources to meet partner performance objectives and partner expectations.</p></li>\n<li><p>Drive high renewal rates by ensuring partners focus on their renewals and build an engagement plan to align <a href=\"https://himalayas.app/companies/sophos\">Sophos</a> and Partner teams, identify new business and cross sell opportunities.</p></li>\n<li><p>Motivate, educate and ensure Partner sales and technical staff are go-to-market ready, provide access to certiﬁcation and training materials and develop an enablement plan.</p></li>\n</div></ul><h3>What You Will Bring: </h3><ul>\n<li>\n<p>Experience of MSP Partner Management in UK, Ireland and Nordics - Minimum 8+ years</p>\n<p>Working experience of developing business plans and service offerings with MSPs</p>\n</li>\n<li><p>Understand RMM/PSA platforms and integrating commercial models</p></li>\n<li><p>Ability to think strategically and long-term, takes ownership and has business leadership to meet the needs of a dynamic Partnership</p></li>\n<li><p>Develop and execute on a joint Partner business plan that drives our mutual business in line with <a href=\"https://himalayas.app/companies/sophos\">Sophos</a> short and long term aspirations.</p></li>\n<li><p>Track record of exceeding expectations in a team focused, quota carrying role, consistently exceeds quota and key performance metrics</p></li>\n<li><p>Proven track record of Building and fostering key C-level/Exec relationships, internally and within Strategic Partners and is comfortable interacting at all levels of the organization</p></li>\n<li><p>Proven track record of achieving and exceeding territory partner sales quotas and a proven record in Partner Driven Net New and Customer New business sales</p></li>\n<li><p>Engages easily and uses effective questioning and active listening to gather relevant information.</p></li>\n<li><p>Focuses on understanding desired outcomes and showing value for <a href=\"https://himalayas.app/companies/sophos\">Sophos</a>, partners, and customers</p></li>\n<li><p>Demonstrated earning trust with internal stakeholders and drives for results through others, excellent verbal and written communications skills are a must, as well as the ability to work effectively across internal and external organizations</p></li>\n<li><p>Facilitates strong business partnerships to secure buy-in to plans to move <a href=\"https://himalayas.app/companies/sophos\">Sophos</a> and Partners towards desired goals.</p></li>\n<li><p>Understanding of the target market and its dynamics - Extensive sales experience across all customer sizes and sectors Small, Mid, Enterprise and Public Sector</p></li>\n<li><p>Excellent communication skills, including written, verbal, and presentation abilities</p></li>\n<li><p>Ability to quickly learn and adapt to new approaches, tools, and techniques</p></li>\n<li><p>Strong conflict management skills when working with customers, partners, and internal stakeholders</p></li>\n<li><p>Experience supporting and collaborating with virtual and cross functional teams</p></li>\n<li><h3>Strong numerical aptitude</h3></li>\n<li><h3>Well-developed analytical skills</h3></li>\n<li><p>High level of commercial awareness and business acumen</p></li>\n<li><h3>Coaching and mentoring capability</h3></li>\n</ul><div>\n<div>#B2</div>\n<div>#LI_MT1</div>\n</div><h3>Ready to Join Us?</h3><div>At <a href=\"https://himalayas.app/companies/sophos\">Sophos</a>, we believe in the power of diverse perspectives to fuel innovation. Research shows that candidates sometimes hesitate to apply if they don't check every box in a job description. We challenge that notion. Your unique experiences and skills might be exactly what we need to enhance our team. Don't let a checklist hold you back – we encourage you to apply.</div><h3>What's Great About <a href=\"https://himalayas.app/companies/sophos\">Sophos</a>?</h3><div>·   <a href=\"https://himalayas.app/companies/sophos\">Sophos</a> operates a remote-first working model, making remote work the primary option for most employees. However, some roles may necessitate a hybrid approach. <strong>While we are a remote first organization, applicants must have legal authorization to work in the jurisdiction where the position is posted, without requiring employer sponsorship.</strong>\n</div><div>·   Our people – we innovate and create, all of which are accompanied by a great sense of fun and team spirit</div><div>·   Employee-led diversity and inclusion networks that build community and provide education and advocacy</div><div>·   Annual charity and fundraising initiatives and volunteer days for employees to support local communities</div><div>·   Global employee sustainability initiatives to reduce our environmental footprint</div><div>·   Global fitness and trivia competitions to keep our bodies and minds sharp</div><div>·   Global wellbeing days for employees to relax and recharge </div><div>·   Monthly wellbeing webinars and training to support employee health and wellbeing</div><h3>Our Commitment To You</h3><div>We’re proud of the diverse and inclusive environment we have at <a href=\"https://himalayas.app/companies/sophos\">Sophos</a>, and we’re committed to ensuring equality of opportunity.   We believe that diversity, combined with excellence, builds a better <a href=\"https://himalayas.app/companies/sophos\">Sophos</a>, so we encourage applicants who can contribute to the diversity of our team.  All applicants will be treated in a fair and equal manner and in accordance with the law regardless of gender, sex, gender reassignment, marital status, race, religion or belief, color, age, military veteran status, disability, pregnancy, maternity or sexual orientation.  We want to give you every opportunity to show us your best self, so if there are any adjustments we could make to the recruitment and selection process to support you, please let us know. </div><h3>Data Protection</h3><div>If you choose to explore an opportunity, and subsequently share your CV or other personal details with <a href=\"https://himalayas.app/companies/sophos\">Sophos</a>, these details will be held by <a href=\"https://himalayas.app/companies/sophos\">Sophos</a> for 12 months in accordance with our Privacy Policy and used by our recruitment team to contact you regarding this or other relevant opportunities at <a href=\"https://himalayas.app/companies/sophos\">Sophos</a>.  If you would like <a href=\"https://himalayas.app/companies/sophos\">Sophos</a> to delete or update your details at any time, please follow the steps set out in the Privacy Policy describing your individual rights.  For more information on <a href=\"https://himalayas.app/companies/sophos\">Sophos</a>’ data protection practices, please consult our Privacy Policy Cybersecurity as a Service Delivered | <a href=\"https://himalayas.app/companies/sophos\">Sophos</a>\n</div><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+                  "pubDate": 1786938250,
+                  "expiryDate": 1792122249,
+                  "applicationLink": "https://himalayas.app/companies/sophos/jobs/senior-channel-account-executive-msp",
+                  "guid": "https://himalayas.app/companies/sophos/jobs/senior-channel-account-executive-msp"
+            },
+            {
+                  "title": "Freelancer - AI Red Team Experts",
+                  "excerpt": "DescriptionAlice. io (formerly known as ActiveFence) is a leading trust, safety, and security company.",
+                  "companyName": "ActiveFence",
+                  "companySlug": "activefence",
+                  "companyLogo": "",
+                  "employmentType": "Contractor",
+                  "minSalary": null,
+                  "maxSalary": null,
+                  "salaryPeriod": "annual",
+                  "seniority": [
+                        "Senior"
+                  ],
+                  "currency": null,
+                  "locationRestrictions": [
+                        "United States"
+                  ],
+                  "timezoneRestrictions": [
+                        -10,
+                        -9,
+                        -8,
+                        -7,
+                        -6,
+                        -5,
+                        14
+                  ],
+                  "categories": [
+                        "Cybersecurity",
+                        "Penetration-Testing",
+                        "Red-Teaming",
+                        "AI-Security",
+                        "Ethical-Hacking",
+                        "Freelance-AI-Red-Team-Specialist",
+                        "AI-Red-Team-Specialist",
+                        "AI-Red-Team",
+                        "AI-Red-Team-Security-Engineer",
+                        "AI-Red-Teaming",
+                        "Red-Team-Expert",
+                        "Freelance-AI-Security-Consultant",
+                        "Red-Team-Consultant"
+                  ],
+                  "parentCategories": [ ],
+                  "description": "<h3>Description</h3><p>Alice.io (formerly known as <a href=\"https://himalayas.app/companies/activefence\">ActiveFence</a>) is a leading trust, safety, and security company. Just like ‘Alice’ herself, we go down the rabbit hole into the emerging world of AI and focus on safeguarding these technologies. In a world where AI has fundamentally changed the nature of risk, Alice offers coverage across the entire AI lifecycle.</p><p>We're currently on the ground floor of an exciting new initiative: building an \"Elite Collective\" of the world's premier cyber specialists—high-stakes, project-based work for the \"best of the best\" red-teamers in the industry.</p><p>Work is on-demand and project-dependent, scaling up and down based on the needs of the client. This is not a high-volume, repetitive role; it is an opportunity to be tapped for specific, high-impact interventions when your unique expertise is required.</p><p>The most sophisticated technology challenges in the world are waiting down the rabbit hole. We’re looking for the sharpest minds to help us secure the frontier.</p><p>The invitation is open: Come join us at the tea party.</p><h3>About the position:</h3><p><strong>As one of Alice’s Security Red Team Specialists, you’ll focus on Generative AI Models. You will play a critical role in enhancing the security and integrity of our cutting-edge AI technologies.</strong></p><p>Your primary responsibility will be to conduct analysis and testing of our generative AI systems, including but not limited to language models, image generation models, and any related infrastructure.</p><p>Your objective is to help clients secure their AI models and frameworks by identifying weaknesses, assessing risks, and providing clear steps for improvement.</p><h3>Key Responsibilities</h3><ul>\n<li>Simulated Cyber Attacks: Conduct sophisticated and comprehensive simulated attacks on generative AI models and their operating environments to uncover vulnerabilities.</li>\n<li>Vulnerability Assessment: Evaluate the security posture of AI models and infrastructure, identifying weaknesses and potential threats.</li>\n<li>Risk Analysis: Perform thorough risk analysis to determine the impact of identified vulnerabilities and prioritize mitigation efforts.</li>\n<li>Mitigation Strategies: Collaborate with development and security teams to develop effective strategies to mitigate identified risks and enhance model resilience.</li>\n<li>Research and Innovation: Stay abreast of the latest trends and developments in AI security, ethical hacking, and cyber threats. Apply innovative testing methodologies to ensure cutting-edge security practices.</li>\n<li>Documentation and Reporting: Maintain detailed documentation of all red team activities, findings, and recommendations. Prepare and present reports to senior management and relevant stakeholders.</li>\n</ul><h3>Requirements</h3><h3>Must-Have:</h3><ul>\n<li>Proven experience in AI vulnerabilities analysis</li>\n<li>Strong understanding of AI technologies and their underlying architectures, especially generative models and agentic frameworks.</li>\n<li>At Least 5 years of experience in Web Penetration testing.</li>\n<li>Excellent analytical, problem-solving, and communication skills.</li>\n<li>Ability to work in a fast-paced, ever-changing environment.</li>\n</ul><h3>Nice-to-Have:</h3><ul>\n<li>Proficiency in Python or NodeJS</li>\n<li>Advanced Certifications in offensive cybersecurity (e.g. OSWE, OSCE3, SEC542, SEC522) are highly desirable.</li>\n<li>Familiarity with agentic frameworks and agentic development experience</li>\n<li>Bachelor’s or Master’s degree in Computer Science, Information Security, or a related field.</li>\n<li>Proven records for vulnerability disclosure, such as CVE</li>\n</ul><p><strong>All applicants will be required to complete a screening exam and background check. </strong></p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+                  "pubDate": 1786938204,
+                  "expiryDate": 1792122204,
+                  "applicationLink": "https://himalayas.app/companies/activefence/jobs/freelancer-ai-red-team-experts-5355411774",
+                  "guid": "https://himalayas.app/companies/activefence/jobs/freelancer-ai-red-team-experts-5355411774"
+            },
+            {
+                  "title": "Setter (w/m/d) Remote auch aus dem Ausland",
+                  "excerpt": "Du liebst Vertrieb, bist ein Kommunikationstalent und willst Großes erreichen?",
+                  "companyName": "NETSHAKE GmbH",
+                  "companySlug": "netshake-gmbh",
+                  "companyLogo": "https://cdn-images.himalayas.app/o8oh2vb7dznas392h8gzjalkwsrp",
+                  "employmentType": "Contractor",
+                  "minSalary": 2500,
+                  "maxSalary": 16000,
+                  "salaryPeriod": "monthly",
+                  "seniority": [
+                        "Mid-level"
+                  ],
+                  "currency": "EUR",
+                  "locationRestrictions": [
+                        "Germany"
+                  ],
+                  "timezoneRestrictions": [
+                        1
+                  ],
+                  "categories": [
+                        "Telesales",
+                        "Sales-Development",
+                        "Business-Development",
+                        "Lead-Generation",
+                        "E-Commerce-Sales",
+                        "Setter-Out"
+                  ],
+                  "parentCategories": [
+                        "Sales"
+                  ],
+                  "description": "<p><strong>Du liebst Vertrieb, bist ein Kommunikationstalent und willst Großes erreichen?</strong></p><p>Dann komm zu <strong>NETSHAKE</strong> – seit 26 Jahren im E-Commerce, offizieller <strong>Shopify Premier Partner</strong>.</p><p>Diesen Status tragen nur wenige Agenturen in ganz Europa. Er steht für Exzellenz, Performance und nachweisbare Ergebnisse auf höchstem Niveau.</p><h3>Wir verkaufen kein „Produkt“.</h3><p>Wir verkaufen skalierbare Systeme, die Unternehmen transformieren.</p><p>Als eine der führenden Shopify Premier Partnern im deutschsprachigen Raum arbeitest du mit ambitionierten Brands, die wachsen wollen – und mit Lösungen, die echten Impact liefern.</p><h3>Der E-Commerce-Markt wächst rasant.</h3><h3>Und wir sind mittendrin – nicht am Rand.</h3><p>Bei NETSHAKE bekommst du die Bühne, Verantwortung zu übernehmen, groß zu denken und deine Performance in echten Umsatz zu übersetzen.</p><h3>Kein Mittelmaß.</h3><h3>Keine Limits.</h3><p>Nur Wachstum – für unsere Kunden und für dich.</p><h3>Aufgaben</h3><p>🔹 <strong>Opening &amp; Setting</strong> – Du gehst aktiv in die Neukundenansprache, identifizierst Potenziale und eröffnest qualifizierte Opportunities. Dabei startest du nicht bei null: Wir stellen dir tausende AI-vorqualifizierte Leads bereit, die exakt unserer Zielgruppe entsprechen – kein Abtelefonieren von Wildfremden, sondern fokussierte Ansprache von Unternehmen mit echtem Bedarf. Kein Warten auf Leads – du erzeugst Momentum auf Basis einer hochwertigen, datengestützten Pipeline. Du qualifizierst Entscheider, analysierst Geschäftsmodelle und übergibst strukturierte, vorqualifizierte Cases an den Closer – oder entwickelst dich selbst dorthin.</p><p>🔹 <strong>Closer-Development</strong> – Schrittweise übernimmst du eigene Strategie- &amp; Closing-Gespräche mit klarer Umsatzverantwortung.</p><p>🔹 <strong>Bedarfsanalyse auf C-Level</strong> – Du verstehst Geschäftsziele, erkennst Skalierungshebel und positionierst unsere Lösungen präzise.</p><p>🔹 <strong>Konsequente Follow-ups</strong> – Du bleibst dran. Systematisch. Hartnäckig. Abschlussorientiert.</p><p>🔹 <strong>Pipeline-Ownership</strong> – Saubere CRM-Dokumentation, KPI-Fokus und volle Transparenz über deine Zahlen.</p><p>🔹 <strong>Angebotsstrategie</strong> – Du erstellst individuelle, performance-orientierte Angebote mit klarem Mehrwert.</p><p>🔹 <strong>Prozess-Optimierung</strong> – Du denkst Sales unternehmerisch weiter und bringst Verbesserungsvorschläge aktiv ein.</p><h3>Qualifikation</h3><p>✔️ <strong>Unternehmermindset</strong> – Du denkst in Umsatz, Chancen und Lösungen. Ownership statt Ausreden ist für dich selbstverständlich.</p><p>✔️ <strong>Hunter-Mentalität im Vertrieb</strong> – Du liebst Closing, beherrschst moderne Verkaufstechniken und willst gewinnen – nicht nur teilnehmen.</p><p>✔️ <strong>Volle Eigenverantwortung</strong> – Du organisierst dich selbst, übernimmst Verantwortung für deine Pipeline und lieferst Ergebnisse.</p><p>✔️ <strong>Performance-Drive</strong> – Herausforderungen triggern dich. Du willst besser werden, schneller werden, größer denken.</p><p>✔️ <strong>Ziel- &amp; Abschlussorientierung</strong> – KPIs sind für dich kein Druck, sondern Motivation. Erfolge feierst du – aber erst nach dem Deal.</p><p>✔️ <strong>Wachstums-Mentalität</strong> – Du investierst in deine Weiterentwicklung und willst vom Setter zum Closer wachsen.</p><p>✔️ <strong>Exzellente Deutschkenntnisse</strong> – Verhandlungssicher in Wort und Schrift.</p><h3>Benefits</h3><p>✨ <strong>Sales Excellence</strong> – Kein YouTube-Vertrieb, keine Folien. Du arbeitest täglich mit deinem Vertriebsleiter, der es selbst getan hat. Feedback, Taktung, Wiederholung — bis es sitzt.</p><p>✨ <strong>Attraktive Vergütung</strong> – Starkes Fixgehalt plus Bonusmodell.</p><p>✨ <strong>Klarer Karrierepfad:</strong> Opener &amp; Setter → Setter → Setter &amp; Closer → Closer.</p><p>✨ <strong>High-Performance-Umfeld</strong> – Systeme, KPIs und Prozesse, die dir den Rücken freihalten. Fokus auf Closing, nicht auf Chaos.</p><p>✨ <strong>Maximale Flexibilität</strong> – Remote von überall oder Energie tanken in unserem stylischen Office in Bay Square, Business Bay, Dubai.</p><p>✨ <strong>Persönliche Entwicklung – jeden Tag</strong> – Ownership, Verantwortung, Wachstum. Komfortzone ist kein Bestandteil unseres Modells.</p><p>✨ <strong>Teamevents mit Energie</strong> – Gewinner feiern gemeinsam.</p><p>✨<strong>Langfristige Perspektive:</strong> Bei erfolgreicher Zusammenarbeit besteht die Möglichkeit, in eine Festanstellung zu wechseln.</p><p>✨<strong>Internationale Karrieremöglichkeiten:</strong> Je nach gemeinsamer Entwicklung besteht zusätzlich die Option auf eine Festanstellung über unsere i<strong>nternationale Unternehmensstruktur mit attraktiven Perspektiven im internationalen Umfeld.</strong></p><p>Wir suchen keine Bewerber. Wir suchen Hunter auf Freelance-Basis. Kein Limit im Kopf. Kein Limit im Einkommen.</p><p>Bewirb dich jetzt, wenn du in einem professionellen Umfeld wachsen und Leistung bringen willst – <strong>komm ins Gewinnerteam!</strong></p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+                  "pubDate": 1786938144,
+                  "expiryDate": 1792122143,
+                  "applicationLink": "https://himalayas.app/companies/netshake-gmbh/jobs/setter-w-m-d-remote-auch-aus-dem-ausland",
+                  "guid": "https://himalayas.app/companies/netshake-gmbh/jobs/setter-w-m-d-remote-auch-aus-dem-ausland"
+            },
+            {
+                  "title": "Desenvolvedor Sênior",
+                  "excerpt": "Na V. tal, acreditamos que a tecnologia conecta pessoas e transforma o futuro.",
+                  "companyName": "V.tal | o futuro passa por aqui",
+                  "companySlug": "v-tal-o-futuro-passa-por-aqui",
+                  "companyLogo": "",
+                  "employmentType": "Full Time",
+                  "minSalary": null,
+                  "maxSalary": null,
+                  "salaryPeriod": "annual",
+                  "seniority": [
+                        "Senior"
+                  ],
+                  "currency": null,
+                  "locationRestrictions": [
+                        "Brazil"
+                  ],
+                  "timezoneRestrictions": [
+                        -5,
+                        -4,
+                        -3,
+                        -2
+                  ],
+                  "categories": [
+                        "Senior-Software-Developer",
+                        "Backend-Development",
+                        "Software-Engineer",
+                        "Telecommunications-Software",
+                        "Billing-Systems-Development",
+                        "Desenvolvedor-Senior",
+                        "Desarrollador-De-Software-Senior",
+                        "Senior-Developer",
+                        "Senior-Software-Development"
+                  ],
+                  "parentCategories": [
+                        "Developer"
+                  ],
+                  "description": "<p>Na V.tal, acreditamos que a tecnologia conecta pessoas e transforma o futuro. Somos uma empresa inovadora e focada em excelência, operando com uma cultura dinâmica e colaborativa. Nosso time trabalha com autonomia, paixão e compromisso, sempre em busca dos melhores resultados.</p><p>Buscamos um Desenvolvedor III experiente para se juntar à nossa equipe. Você será responsável por projetar, desenvolver e implementar soluções de software robustas e escaláveis, utilizando as melhores práticas de codificação e metodologias ágeis. Sua atuação será fundamental para impulsionar a inovação tecnológica da empresa, garantindo a entrega de produtos de alta qualidade que atendam às necessidades dos nossos clientes. Venha fazer parte de um time dinâmico e contribuir para o sucesso dos nossos projetos!</p><ul>\n<li>Desenvolver e implementar soluções de software de alta qualidade.</li>\n<li>Participar da análise de requisitos e da concepção de novas funcionalidades.</li>\n<li>Realizar testes e depuração de código para garantir a funcionalidade e a performance.</li>\n<li>Colaborar com a equipe no desenvolvimento de arquiteturas e padrões de projeto.</li>\n<li>Resolver problemas complexos e propor soluções inovadoras.</li>\n<li>Manter-se atualizado com as novas tecnologias e tendências do mercado.</li>\n</ul><ul>\n<li>Experiência com billing/telecom.</li>\n<li>Conhecimento em TM Forum/Open APIs.</li>\n<li>Experiência com Oracle BRM.</li>\n<li>Vivência em ambientes críticos e de alta volumetria.</li>\n<li>Conhecimento em Kubernetes e containers.</li>\n<li>Experiência em modernização de legado.</li>\n<li>Certificações cloud ou arquitetura.</li>\n<li>Experiência comprovada em desenvolvimento de software.</li>\n<li>Domínio de linguagens de programação relevantes (ex: Java, Python, C#).</li>\n<li>Conhecimento em bancos de dados relacionais e não relacionais.</li>\n<li>Experiência com metodologias ágeis (Scrum, Kanban).</li>\n<li>Habilidade para trabalhar em equipe e comunicar-se de forma eficaz.</li>\n<li>Proatividade e capacidade de resolução de problemas.</li>\n<li>Graduação em Ciência da Computação, Engenharia de Software ou áreas correlatas.</li>\n<li>Certificações relevantes na área de desenvolvimento (desejável).</li>\n</ul><h3>Informações adicionais</h3><h3>Benefícios:</h3><ul>\n<li>Vale Alimentação e/ou Refeição</li>\n<li>Vale Transporte</li>\n<li>Assistência Médica</li>\n<li>Assistência Odontológica</li>\n<li>Seguro de Vida</li>\n<li>Previdência Privada</li>\n<li>Programa de participação nos resultados (PPR)</li>\n<li>Auxílio Farmácia</li>\n<li>Auxílio creche</li>\n<li>Flexibilidade de horário</li>\n<li>Clube de Vantagens V.tal</li>\n<li>Licença maternidade estendida (6 meses)</li>\n<li>Licença paternidade estendida (20 dias)</li>\n</ul><h3>O FUTURO PASSA POR AQUI E É COM VOCÊ QUE IREMOS CONSTRUÍ-LO</h3><p><strong>Nós somos a V.tal, uma empresa que nasceu com o propósito de viabilizar a conexão com o mundo digital transformando a vida das pessoas.</strong> Trabalhamos para ajudar a incluir o Brasil no topo da lista dos países mais digitalizados do mundo, promovendo a inclusão digital, impulsionando novos negócios e estimulando o desenvolvimento regional.</p><p>E isso é possível porque já nascemos com a maior rede de fibra ótica do Brasil e com um time que faz acontecer. Somos uma rede neutra, compartilhada com operadoras, provedores e parceiros de todos os tamanhos e regiões. E isso nos enche de orgulho. Toda essa robustez nos permite oferecer abrangência e capilaridade para os nossos clientes irem mais longe, otimizando seus investimentos.</p><h3>NOSSO TIME</h3><p>Somos conectados, ágeis e direcionados pelo excelente resultado. Nosso ambiente de trabalho é leve porque é formado por pessoas que colaboram entre si, confiam umas nas outras e vibram por cada conquista. Aqui nós não damos desculpas, buscamos a solução. É com essa equipe de alta performance que trabalhamos diariamente para incluir o Brasil no topo da lista dos países mais digitalizados do mundo, promovendo a inclusão digital, o desenvolvimento econômico e social das pessoas.</p><h3>CONFIRA OS NOSSOS PRINCÍPIOS</h3><p><strong><img width=\"37\">Jogamos limpo, confiamos uns nos outros.</strong></p><p><img width=\"39\"><strong>Evolução e aprendizado constante é nosso mantra. Sem aprendizado, não há evolução.</strong></p><p><img width=\"35\"><strong>Somos obcecados pela excelência e alta performance. A busca pelo resultado acontece diariamente em cada decisão.</strong></p><p><strong><img width=\"32\">Work hard, play hard! Somos focados e temos um ambiente saudável.</strong></p><p><strong>SE IDENTIFICOU COM A NOSSA PROPOSTA? ENTÃO VEM CONSTRUIR O FUTURO COM A GENTE HOJE!</strong></p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+                  "pubDate": 1786938102,
+                  "expiryDate": 1792122101,
+                  "applicationLink": "https://himalayas.app/companies/v-tal-o-futuro-passa-por-aqui/jobs/desenvolvedor-senior-4951683807",
+                  "guid": "https://himalayas.app/companies/v-tal-o-futuro-passa-por-aqui/jobs/desenvolvedor-senior-4951683807"
+            },
+            {
+                  "title": "Java Developer – Windchill",
+                  "excerpt": "Java Developer – Windchill – Remote Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States.",
+                  "companyName": "Bright Vision Technologies",
+                  "companySlug": "bright-vision-technologies",
+                  "companyLogo": "https://cdn-images.himalayas.app/tillsehd3opuq2p5lraeki82dq3v",
+                  "employmentType": "Full Time",
+                  "minSalary": 80000,
+                  "maxSalary": 110000,
+                  "salaryPeriod": "annual",
+                  "seniority": [
+                        "Senior"
+                  ],
+                  "currency": "USD",
+                  "locationRestrictions": [
+                        "United States"
+                  ],
+                  "timezoneRestrictions": [
+                        -10,
+                        -9,
+                        -8,
+                        -7,
+                        -6,
+                        -5,
+                        14
+                  ],
+                  "categories": [
+                        "Java-Developer",
+                        "Windchill-Developer",
+                        "Software-Developer",
+                        "Backend-Engineer",
+                        "Enterprise-Software-Developer",
+                        "Windchill-Java-Developer",
+                        "Windchill-Application-Developer",
+                        "Windchill-Engineer",
+                        "Windchill-Middleware-Developer",
+                        "Windchill-Backend-Developer",
+                        "Windchill-Integration-Developer",
+                        "Windchill-PLM-Engineer",
+                        "Windchill-Development",
+                        "Windchill-Customization-Engineer"
+                  ],
+                  "parentCategories": [ ],
+                  "description": "<strong>Java Developer – Windchill – Remote</strong><br><br><a href=\"https://himalayas.app/companies/bright-vision-technologies\">Bright Vision Technologies</a> is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States.<br>This is a fantastic opportunity to join an established and well-respected organization offering tremendous career growth potential.<br><br><strong>Job Title: </strong>Java Developer – Windchill<br><strong>Location: </strong>100% Remote (U.S.)<br><strong>Position Type:</strong> Full-time, Direct W2<br><strong>Salary Range: </strong>$80,000–$110,000 Annually<br><strong>Experience Required: </strong>6+ years<br><br><strong>Sponsorship: </strong>U.S. Citizens, Green Card Holders, EAD Holders, and H-1B transfer candidates are encouraged to apply. We are unable to sponsor new H-1B visa petitions for this position.<br><br><strong>Job Summary</strong><br>We are seeking an experienced Java Developer – Windchill focused on deep, low-level Windchill customizations using Java, PTC APIs, and PTC’s customization frameworks. This role suits engineers who enjoy working close to the platform, extending its behavior through services, listeners, and processors while preserving a clean and upgrade-friendly customization layer. The ideal candidate will bring strong Java fundamentals, deep familiarity with the Windchill platform internals, and a disciplined, performance-aware engineering style. In this role you will work closely with cross-functional partners — product, design, engineering, operations, and business stakeholders — to translate ambiguous requirements into well-engineered solutions, and will be expected to raise the bar through code review, design review, and mentorship of more junior engineers. The successful candidate brings strong engineering discipline, a clear communication style, and a track record of shipping meaningful work that holds up well in production.<br><br><strong>Required Qualifications</strong><ul>\n<li>Bachelor’s degree in Computer Science, Engineering, or a related technical discipline.</li>\n<li>Five or more years of Java development experience, with strong focus on Windchill customization.</li>\n<li>Deep, hands-on experience with the Windchill Java API and customization frameworks.</li>\n<li>Solid understanding of Windchill data model, lifecycle, and workflow internals.</li>\n<li>Strong Java OO design and performance-engineering skills.</li>\n<li>Experience with JSP, HTML, and Windchill client-side customization.</li>\n<li>Hands-on experience with Type and Attribute Management (TAM).</li>\n<li>Strong SQL skills and familiarity with Oracle or SQL Server.</li>\n<li>Experience supporting Windchill upgrades.</li>\n<li>Excellent troubleshooting and documentation skills.</li>\n</ul><strong>Preferred Qualifications</strong><ul>\n<li>PTC Windchill development certifications.</li>\n<li>Experience with PTC ThingWorx development.</li>\n<li>Exposure to Windchill RV&amp;S customization.</li>\n<li>Familiarity with CI/CD tooling for Windchill.</li>\n<li>Experience operating Windchill in the cloud.</li>\n</ul><strong>How to Apply</strong><br>Would you like to know more about this opportunity? For immediate consideration, please send your resume to . Learn more about <a href=\"https://himalayas.app/companies/bright-vision-technologies\">Bright Vision Technologies</a> at www.bvteck.com.<br><a href=\"https://himalayas.app/companies/bright-vision-technologies\">Bright Vision Technologies</a> is an Equal Opportunity Employer.<br><p>Equal Employment Opportunity (EEO) Statement</p><p><a href=\"https://himalayas.app/companies/bright-vision-technologies\">Bright Vision Technologies</a> (BV Teck) is committed to equal employment opportunity (EEO) for all employees and applicants without regard to race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, veteran status, or any other protected status as defined by applicable federal, state, or local laws. This commitment extends to all aspects of employment, including recruitment, hiring, training, compensation, promotion, transfer, leaves of absence, termination, layoffs, and recall.</p><p>BV Teck expressly prohibits any form of workplace harassment or discrimination. Any improper interference with employees' ability to perform their job duties may result in disciplinary action up to and including termination of employment.</p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+                  "pubDate": 1786938081,
+                  "expiryDate": 1792122080,
+                  "applicationLink": "https://himalayas.app/companies/bright-vision-technologies/jobs/java-developer-windchill-1919462339",
+                  "guid": "https://himalayas.app/companies/bright-vision-technologies/jobs/java-developer-windchill-1919462339"
+            },
+            {
+                  "title": "Desenvolvedor Backend Kotlin - Sênior",
+                  "excerpt": "A FCamara está em busca de um Desenvolvedor Backend Kotlin - Sênior para atuar em parceria com o melhor banco digital do Brasil, eleito por voto popular na 4º edição do prêmio CanalTech.",
+                  "companyName": "FCamara",
+                  "companySlug": "fcamara",
+                  "companyLogo": "",
+                  "employmentType": "Full Time",
+                  "minSalary": null,
+                  "maxSalary": null,
+                  "salaryPeriod": "annual",
+                  "seniority": [
+                        "Senior"
+                  ],
+                  "currency": null,
+                  "locationRestrictions": [
+                        "Brazil"
+                  ],
+                  "timezoneRestrictions": [
+                        -5,
+                        -4,
+                        -3,
+                        -2
+                  ],
+                  "categories": [
+                        "Backend-Development",
+                        "Kotlin",
+                        "Java-Development",
+                        "Software-Engineer",
+                        "API-Development",
+                        "Kotlin-Backend-Developer",
+                        "Senior-Backend-Engineer-(Java-Kotlin)",
+                        "Senior-Kotlin-Developer",
+                        "Senior-Java-Kotlin-Developer",
+                        "Desenvolvedor-Back-End",
+                        "Senior-Java-Backend-Developer",
+                        "Senior-Backend-Development",
+                        "Senior-Java-Backend-Engineer"
+                  ],
+                  "parentCategories": [
+                        "Developer"
+                  ],
+                  "description": "<p>A <a href=\"https://himalayas.app/companies/fcamara\">FCamara</a> está em busca de um Desenvolvedor Backend Kotlin - Sênior para atuar em parceria com o melhor banco digital do Brasil, eleito por voto popular na 4º edição do prêmio CanalTech. Empresa que oferece um banco digital completo com produtos como, conta gratuita, cartão de crédito personalizado e investimento de renda fixa e variável.</p><h3>Hard Skills:</h3><p></p><p><strong>Necessários:</strong></p><ul>\n<li><strong>Kotlin ou Java;</strong></li>\n<li><strong>Spring;</strong></li>\n<li><strong>Redis;</strong></li>\n<li><strong>MongoDB;</strong></li>\n<li><strong>Postgres;</strong></li>\n<li><strong>AWS (SQS, S3);</strong></li>\n<li><strong>Testes unitários;</strong></li>\n</ul><h3><strong>Desejáveis:</strong></h3><ul>\n<li><strong>Docker</strong></li>\n<li><strong>Apigee</strong></li>\n<li><strong>Javascript</strong></li>\n</ul><h3><strong>Soft Skills:</strong></h3><ul>\n<li><strong>Comunicação clara: Articular ideias complexas para diferentes públicos.</strong></li>\n<li><strong>Resolução de problemas: Abordagem estratégica para desafios técnicos.</strong></li>\n<li><strong>Pensamento crítico: Propor melhorias e otimizações contínuas.</strong></li>\n<li><strong>Accountability: Responsabilidade pelas entregas e impacto no projeto.</strong></li>\n<li><strong>Visão sistêmica: Compreender o impacto das decisões na arquitetura e no negócio.</strong></li>\n<li><strong>Mentoria e colaboração: Compartilhar conhecimento e elevar o nível técnico da equipe.</strong></li>\n<li><strong>Adaptabilidade: Ajustar-se rapidamente a mudanças e demandas do projeto.</strong></li>\n</ul><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+                  "pubDate": 1786938001,
+                  "expiryDate": 1792122001,
+                  "applicationLink": "https://himalayas.app/companies/fcamara/jobs/desenvolvedor-backend-kotlin-senior",
+                  "guid": "https://himalayas.app/companies/fcamara/jobs/desenvolvedor-backend-kotlin-senior"
+            },
+            {
+                  "title": "SharePoint / Microsoft 365 Consultant",
+                  "excerpt": "We are seeking a SharePoint / Microsoft 365 Consultant to provide Level 3 support, administration, and maintenance of enterprise collaboration platforms within an Inetum project environment.",
+                  "companyName": "Inetum",
+                  "companySlug": "inetum",
+                  "companyLogo": "https://cdn-images.himalayas.app/wzltemqklvmra63orhkwm15frza8",
+                  "employmentType": "Full Time",
+                  "minSalary": null,
+                  "maxSalary": null,
+                  "salaryPeriod": "annual",
+                  "seniority": [
+                        "Senior"
+                  ],
+                  "currency": null,
+                  "locationRestrictions": [
+                        "Portugal"
+                  ],
+                  "timezoneRestrictions": [
+                        -1,
+                        0
+                  ],
+                  "categories": [
+                        "SharePoint-Administration",
+                        "Microsoft-365-Administration",
+                        "IT-Consulting",
+                        "Technical-Support",
+                        "SharePoint-Development",
+                        "Sharepoint-Consultant",
+                        "Microsoft-365-Consultant",
+                        "SharePoint-Online-Consultant",
+                        "SharePoint-Consulting",
+                        "Office-365-Consultant",
+                        "SharePoint-Specialist",
+                        "M365-Consultant",
+                        "M365-Solutions-Consultant"
+                  ],
+                  "parentCategories": [ ],
+                  "description": "<p>We are seeking a SharePoint / Microsoft 365 Consultant to provide Level 3 support, administration, and maintenance of enterprise collaboration platforms within an <a href=\"https://himalayas.app/companies/inetum\">Inetum</a> project environment. The role focuses on SharePoint On-Premises and Microsoft 365 services, supporting operational stability, governance requirements, and ongoing platform evolution.</p><h3>Main Responsibilities</h3><ul>\n<li>Provide Level 3 support for SharePoint On-Premises and Microsoft 365 services.</li>\n<li>Administer and maintain SharePoint On-Premises environments, including patching, upgrades, and health monitoring.</li>\n<li>Troubleshoot complex issues affecting platform performance, configuration, and availability.</li>\n<li>Manage and support Microsoft 365 collaboration services, including SharePoint Online, Microsoft Teams, Viva Engage, Microsoft Planner, and Microsoft Forms.</li>\n<li>Support security, compliance, governance, and access management requirements.</li>\n<li>Resolve incidents and service requests according to agreed service levels.</li>\n<li>Develop and maintain PowerShell scripts for administration and automation.</li>\n<li>Support SharePoint migration activities from On-Premises environments to SharePoint Online when required.</li>\n<li>Collaborate with Agile/Scrum teams and technical stakeholders to deliver stable solutions.</li>\n<li>Produce and maintain technical documentation and operational procedures.</li>\n</ul><ul>\n<li>Minimum 7 years of experience supporting SharePoint On-Premises and Microsoft 365 solutions.</li>\n<li>Experience administering SharePoint On-Premises environments and SharePoint Online.</li>\n<li>PowerShell scripting experience.</li>\n<li>Understanding of Microsoft SQL Server, Active Directory, networking concepts, and Microsoft Entra ID.</li>\n<li>Understanding of Microsoft 365 security, compliance, permissions, and governance concepts.</li>\n<li>Familiarity with IT service management processes.</li>\n<li>Experience working within Agile/Scrum environments.</li>\n<li>Professional proficiency in English.</li>\n</ul><h3>Additional Valued Experience</h3><ul>\n<li>SharePoint migration experience and familiarity with SPMT or ShareGate.</li>\n<li>Experience with Power Apps, Power Automate, and Power BI.</li>\n<li>Experience developing solutions using SPFx, TypeScript, and React.</li>\n<li>Experience with Prometheus, SPDocKit, AdminDroid, or similar tools.</li>\n<li>Relevant Microsoft certifications.</li>\n<li>French language skills.</li>\n</ul><p><a href=\"https://himalayas.app/companies/inetum\">Inetum</a> is a European leader supporting organizations as they navigate continuous technological change.With deep industry expertise, a strong innovation culture, and a scalable international model, we help clients transform their operations and generate sustainable impact across business and society. </p><p>Guided by European values, we empower local businesses to create positive impact and unlock society’s full potential. This vision drives us to deliver on our promises, attract the best talent, and turn uncertainty into opportunity, building a future where technology unleashes the possibilities within us all.</p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+                  "pubDate": 1786937970,
+                  "expiryDate": 1792121969,
+                  "applicationLink": "https://himalayas.app/companies/inetum/jobs/sharepoint-microsoft-365-consultant-6537600494",
+                  "guid": "https://himalayas.app/companies/inetum/jobs/sharepoint-microsoft-365-consultant-6537600494"
+            },
+            {
+                  "title": "AI Interaction Designer",
+                  "excerpt": "Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States.",
+                  "companyName": "Bright Vision Technologies",
+                  "companySlug": "bright-vision-technologies",
+                  "companyLogo": "https://cdn-images.himalayas.app/tillsehd3opuq2p5lraeki82dq3v",
+                  "employmentType": "Full Time",
+                  "minSalary": 140000,
+                  "maxSalary": 155000,
+                  "salaryPeriod": "annual",
+                  "seniority": [
+                        "Senior"
+                  ],
+                  "currency": "USD",
+                  "locationRestrictions": [
+                        "United States"
+                  ],
+                  "timezoneRestrictions": [
+                        -10,
+                        -9,
+                        -8,
+                        -7,
+                        -6,
+                        -5,
+                        14
+                  ],
+                  "categories": [
+                        "AI-Interaction-Engineer",
+                        "AI-Engineer",
+                        "LLM-Application-Developer",
+                        "Prompt-Engineer",
+                        "Machine-Learning-Engineer",
+                        "AI-Interaction-Designer",
+                        "AI-Interaction-Design",
+                        "AI-Experience-Designer",
+                        "AI-UX-UI-Designer",
+                        "AI-Interface-Design",
+                        "AI-Designer",
+                        "AI-UX-Design",
+                        "AI-Experience-Design",
+                        "AI-Product-Designer"
+                  ],
+                  "parentCategories": [
+                        "Data Science"
+                  ],
+                  "description": "<a href=\"https://himalayas.app/companies/bright-vision-technologies\">Bright Vision Technologies</a> is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States.<br><br>This is a fantastic opportunity to join an established and well-respected organization offering tremendous career growth potential.<br><br><b>Job Title:</b> AI Interaction Engineer<br><b>Location:</b> 100% Remote (U.S.)<br><b>Position Type:</b> Full-time, Direct W2<br><b>Salary Range:</b> $140,000–$155,000 Annually<br><b>Experience Required:</b> 6+ years<br><br><b>Sponsorship:</b> U.S. Citizens, Green Card Holders, EAD Holders, and H-1B transfer candidates are encouraged to apply. We are unable to sponsor new H-1B visa petitions for this position.<br><br><b>Job Summary:</b><br>We are looking for a AI Interaction Engineer to define and lead the strategy, patterns, and tooling for designing prompts, agentic workflows, and LLM-based application architectures across the organization. The role combines deep practical mastery of modern LLMs with the discipline of building reusable design patterns, evaluation frameworks, and developer tooling that scale across many teams and use cases. The ideal candidate has shipped LLM-powered products in production, is fluent in prompt design patterns and agent architectures, and brings strong judgment about when and how to apply different LLM techniques responsibly.<br><br><b>Key Responsibilities</b><ul>\n<li>Six or more years of software engineering experience, with significant time on LLM-based applications.</li>\n<li>Demonstrated experience shipping LLM-powered products to production.</li>\n<li>Deep familiarity with modern LLM APIs and agent frameworks.</li>\n<li>Strong understanding of retrieval-augmented generation, embeddings, and vector databases.</li>\n<li>Experience designing evaluation pipelines for non-deterministic systems.</li>\n<li>Strong Python skills and comfort with modern application frameworks.</li>\n<li>Solid grasp of responsible AI principles, including safety and policy considerations.</li>\n<li>Excellent written and verbal communication skills.</li>\n<li>Track record of mentoring engineers and influencing technical direction.</li>\n</ul><br><b>Preferred Qualifications</b><ul>\n<li>Public writing, talks, or open-source contributions on LLM application development.</li>\n<li>Experience with multi-agent architectures and complex tool-use systems.</li>\n<li>Familiarity with fine-tuning workflows and when to choose them over prompting.</li>\n<li>Exposure to product domains such as customer support, coding assistants, or analytics agents.</li>\n<li>Experience integrating LLMs into enterprise software systems with strict compliance requirements.</li>\n</ul><br><b>How to Apply</b><br><br>Would you like to know more about this opportunity? For immediate consideration, please send your resume to  or contact us at (908)676-4399. Learn more about <a href=\"https://himalayas.app/companies/bright-vision-technologies\">Bright Vision Technologies</a> at .<br><br><a href=\"https://himalayas.app/companies/bright-vision-technologies\">Bright Vision Technologies</a> is an Equal Opportunity Employer.<p>Equal Employment Opportunity (EEO) Statement</p><p><a href=\"https://himalayas.app/companies/bright-vision-technologies\">Bright Vision Technologies</a> (BV Teck) is committed to equal employment opportunity (EEO) for all employees and applicants without regard to race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, veteran status, or any other protected status as defined by applicable federal, state, or local laws. This commitment extends to all aspects of employment, including recruitment, hiring, training, compensation, promotion, transfer, leaves of absence, termination, layoffs, and recall.</p><p>BV Teck expressly prohibits any form of workplace harassment or discrimination. Any improper interference with employees' ability to perform their job duties may result in disciplinary action up to and including termination of employment.</p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+                  "pubDate": 1786937945,
+                  "expiryDate": 1792121945,
+                  "applicationLink": "https://himalayas.app/companies/bright-vision-technologies/jobs/ai-interaction-designer-8315384431",
+                  "guid": "https://himalayas.app/companies/bright-vision-technologies/jobs/ai-interaction-designer-8315384431"
+            },
+            {
+                  "title": "Spanisch-Tutor (m/w/d) gesucht – Flexibel & Homeoffice möglich",
+                  "excerpt": "Wir sind auf der Suche nach innovativen und energiegeladenen Tutor:innen in Spanisch.",
+                  "companyName": "Nachhilfeunterricht",
+                  "companySlug": "nachhilfeunterricht",
+                  "companyLogo": "https://cdn-images.himalayas.app/g1wy7h080iqtys2ys68wiu75cgbb",
+                  "employmentType": "Contractor",
+                  "minSalary": null,
+                  "maxSalary": null,
+                  "salaryPeriod": "annual",
+                  "seniority": [
+                        "Entry-level"
+                  ],
+                  "currency": null,
+                  "locationRestrictions": [
+                        "Austria"
+                  ],
+                  "timezoneRestrictions": [
+                        1
+                  ],
+                  "categories": [
+                        "Spanish-Tutor",
+                        "Language-Instructor",
+                        "Language-Teaching",
+                        "Tutoring",
+                        "Online-Teaching",
+                        "Remote-Spanish-Teacher",
+                        "Entry-Level-Remote-Language-Tutor",
+                        "Remote-Language-Tutor",
+                        "Online-Nachhilfelehrer",
+                        "Online-Spanish-Tutor",
+                        "Education"
+                  ],
+                  "parentCategories": [ ],
+                  "description": "<p>Wir sind auf der Suche nach innovativen und energiegeladenen Tutor:innen in Spanisch.</p><ul><li>\n<strong>Dein Profil:</strong><ul>\n<li>Gute Spanisch Kenntnisse</li>\n<li>Geduld und Einfühlungsvermögen im Umgang mit Schüler:innen</li>\n<li>Erfahrung im <a href=\"https://himalayas.app/companies/nachhilfeunterricht\">Nachhilfeunterricht</a> von Vorteil, aber nicht zwingend erforderlich<br><br><strong>Wir bieten:</strong><ul>\n<li>Flexible Arbeitszeiten, die sich an deinen Alltag anpassen</li>\n<li>Du bestimmst den Preis deines Unterrichts</li>\n<li>Online- oder Präsenzunterricht möglich</li>\n</ul>\n</li>\n</ul>\n</li></ul><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+                  "pubDate": 1786937939,
+                  "expiryDate": 1792121938,
+                  "applicationLink": "https://himalayas.app/companies/nachhilfeunterricht/jobs/spanisch-tutor-m-w-d-gesucht-flexibel-homeoffice-moglich-3622431583",
+                  "guid": "https://himalayas.app/companies/nachhilfeunterricht/jobs/spanisch-tutor-m-w-d-gesucht-flexibel-homeoffice-moglich-3622431583"
+            },
+            {
+                  "title": "Vice President, App Partnerships and Growth",
+                  "excerpt": "The OpportunityWe are seeking an ambitious, deeply networked Vice President, App Partnerships and Growth to lead both our mobile supply acquisition and strategic demand integration efforts.",
+                  "companyName": "Z1 Tech",
+                  "companySlug": "z1-tech",
+                  "companyLogo": "https://cdn-images.himalayas.app/37cz76miecwssbhpj7boyvyr44oa",
+                  "employmentType": "Full Time",
+                  "minSalary": null,
+                  "maxSalary": null,
+                  "salaryPeriod": "annual",
+                  "seniority": [
+                        "Executive"
+                  ],
+                  "currency": null,
+                  "locationRestrictions": [
+                        "United States"
+                  ],
+                  "timezoneRestrictions": [
+                        -10,
+                        -9,
+                        -8,
+                        -7,
+                        -6,
+                        -5,
+                        14
+                  ],
+                  "categories": [
+                        "App-Partnerships",
+                        "Mobile-AdTech",
+                        "Programmatic-Advertising",
+                        "Business-Development",
+                        "Demand-Partnerships",
+                        "Vice-President-Of-Partnerships",
+                        "VP-Of-Partnerships",
+                        "Vice-President-Partnership-Sales",
+                        "Vice-President-Strategic-Partnerships",
+                        "Vice-President-Of-Marketing-Partnerships",
+                        "Senior-Vice-President-Of-Growth",
+                        "VP-Strategic-Partnerships",
+                        "Associate-Vice-President-Partnership-Development",
+                        "Associate-Vice-President-Strategic-Partnerships"
+                  ],
+                  "parentCategories": [
+                        "Sales"
+                  ],
+                  "description": "<div>\n<h3>The Opportunity</h3>\n<p>We are seeking an ambitious, deeply networked <strong>Vice President, App Partnerships and Growth</strong> to lead both our mobile supply acquisition and strategic demand integration efforts.</p>\n<p>In this executive role, you will scale our global mobile ecosystem by securing high-value direct publisher integrations and establishing critical demand partnerships across leading mediation platforms, DSPs, and programmatic ad networks.</p>\n<p>You bring a blend of commercial deal-making, deep programmatic technical fluency (SDKs, OpenRTB, Mediation Bidding), and an extensive, ready-to-activate Rolodex of C-level monetization leads, gaming studios, app publishers, and programmatic demand partners.</p>\n<h3>Key Responsibilities</h3>\n<h3>Publisher &amp; Supply Acquisition</h3>\n<ul>\n<li>\n<strong>Drive Direct In-App Supply:</strong> Prospect, negotiate, and close enterprise-level agreements with top-tier mobile app developers, gaming studios, and global app publishers.</li>\n<li>\n<strong>Activate Industry Network:</strong> Leverage existing relationships with heads of monetization, studio leads, and publishing executives to fast-track deal cycles and contract execution.</li>\n<li>\n<strong>Lead Technical Integration Strategy:</strong> Navigate and close deals across diverse integration paths, including OpenRTB (oRTB 2.x/3.0), direct SDK deployments, custom S2S endpoints, and mobile mediation stacks.</li>\n</ul>\n<h3>Demand &amp; Mediation Platform Partnerships</h3>\n<ul>\n<li>\n<strong>Secure Mediation Demand Integrations:</strong> Establish and scale strategic partnerships to integrate our demand/bidding solutions into top mobile mediation platforms (AppLovin MAX, ironSource LevelPlay, Google AdMob/Bidding, Unity, DT FairBid).</li>\n<li>\n<strong>Expand Programmatic Demand Channels:</strong> Identify, negotiate, and onboard high-performing mobile DSPs, programmatic buyers, and agency trading desks to maximize bid density and yield across our app supply.</li>\n<li>\n<strong>Drive Bidder Certification &amp; Approvals:</strong> Navigate the partner approval and certification processes required to become an approved in-app bidder/custom network across primary mediation networks.</li>\n</ul>\n<h3>Execution &amp; Yield Optimization</h3>\n<ul>\n<li>\n<strong>Full Sales Lifecycle &amp; Pipeline Ownership:</strong> Manage pipeline forecasting, contract structuring (rev-share, hybrid, minimum guarantees), and executive-level negotiations to consistently exceed revenue targets.</li>\n<li>\n<strong>Cross-Functional Collaboration:</strong> Partner closely with Ad Operations, Solutions Engineering, and Product teams to monitor integration health, optimize win/fill rates, and reduce latency.</li>\n<li>\n<strong>Market Intelligence &amp; Industry Presence:</strong> Represent the company at major industry events; provide market feedback on auction dynamics, privacy framework changes (SKAN, Google Privacy Sandbox), and industry trends to steer product roadmap priorities.</li>\n</ul>\n<h3>What We’re Looking For</h3>\n<ul>\n<li>\n<strong>8+ Years in Mobile AdTech / Programmatic:</strong> Proven track record in mobile app business development, supply acquisition, and demand/mediation partnerships at an SSP, mobile ad network, or programmatic platform.</li>\n<li>\n<strong>Extensive Rolodex:</strong> An established, active network of senior decision-makers across mobile app publishers, top gaming studios, mediation platforms, and programmatic DSPs.</li>\n<li>\n<strong>Deep Technical Fluency:</strong><ul>\n<li>In-depth understanding of OpenRTB protocols, SDK deployment workflows, API integrations, and server-side bidding.</li>\n<li>Hands-on knowledge of mobile mediation architectures, in-app unified auctions, bidding adapters, and waterfall optimization.</li>\n<li>Familiarity with traffic quality standards, anti-fraud compliance, and mobile attribution frameworks.</li>\n</ul>\n</li>\n<li>\n<strong>Commercial Deal Architect:</strong> Demonstrated ability to structure and close high-stakes, multi-faceted commercial agreements spanning both supply and demand.</li>\n<li>\n<strong>Fast-Paced Execution:</strong> Ability to work autonomously, build robust pipeline visibility, and deliver on aggressive revenue KPIs in a fast-growing environment.</li>\n<li>\n<strong>Executive Presence:</strong> Outstanding presentation, consultative selling, and negotiation skills suitable for C-suite engagements.</li>\n</ul>\n</div><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+                  "pubDate": 1786937915,
+                  "expiryDate": 1792121914,
+                  "applicationLink": "https://himalayas.app/companies/z1-tech/jobs/vice-president-app-partnerships-and-growth",
+                  "guid": "https://himalayas.app/companies/z1-tech/jobs/vice-president-app-partnerships-and-growth"
+            },
+            {
+                  "title": "Director, Integration & Data Migration",
+                  "excerpt": "M9 Solutions is dedicated to providing IT services and solutions to the Federal Government by mobilizing the right people, skills, clearance levels, and technologies to help organizations that desire improved performance and modern, sustainable change.",
+                  "companyName": "M9 Solutions",
+                  "companySlug": "m9-solutions",
+                  "companyLogo": "https://cdn-images.himalayas.app/zd1vysto9ls5b4v4odmgxc4s8f80",
+                  "employmentType": "Full Time",
+                  "minSalary": 60000,
+                  "maxSalary": 180000,
+                  "salaryPeriod": "annual",
+                  "seniority": [
+                        "Director"
+                  ],
+                  "currency": "USD",
+                  "locationRestrictions": [
+                        "United States"
+                  ],
+                  "timezoneRestrictions": [
+                        -10,
+                        -9,
+                        -8,
+                        -7,
+                        -6,
+                        -5,
+                        14
+                  ],
+                  "categories": [
+                        "Data-Migration",
+                        "Integration-Architecture",
+                        "Program-Management",
+                        "IT-leadership",
+                        "Federal-IT-Services",
+                        "Data-Integration-Lead",
+                        "Data-Migration-Lead",
+                        "Director-Of-Integration"
+                  ],
+                  "parentCategories": [ ],
+                  "description": "<div class=\"content-intro\"><p><a href=\"https://himalayas.app/companies/m9-solutions\">M9 Solutions</a> is dedicated to providing IT services and solutions to the Federal Government by mobilizing the right people, skills, clearance levels, and technologies to help organizations that desire improved performance and modern, sustainable change. M9 has provided quality IT services and support to more than 30 Federal Agencies and multiple commercial customers nationwide. Our capabilities include IT Talent Solutions, Data Delivery &amp; Analytics, Cyber Security, Cloud Migration, Applications and Infrastructure, Software Development, and Finance &amp; Accounting.</p></div><p><a href=\"https://himalayas.app/companies/m9-solutions\">M9 Solutions</a> is seeking a <strong>Director, Integration &amp; Data Migration</strong> to work remotely in support of a government contract for a client located in <strong>Washington,</strong><strong>DC.</strong> An active <strong>Public Trust clearance</strong> is required.</p><h3>Responsibilities</h3><ul>\n<li>Own the integration and data migration program across core implementation and all client transitions.</li>\n<li>Direct integration architecture across the full system landscape - federal payroll providers, benefits systems, time and attendance platforms, retirement systems, and agency-specific applications.</li>\n<li>Own the data migration strategy, including data preparation and governance, target data architecture, quality controls, reference and category services, ingestion approach, and downstream data use considerations.</li>\n<li>Direct multi-agency migration sequencing against complexity tiers and the government-wide July 2027 deadline.</li>\n<li>Own accountability for migration accuracy standards and post-migration audit outcomes.</li>\n<li>Direct application of AI and automation, where authorized, to improve accuracy, efficiency, speed, and cost-effectiveness of migration and interconnection activities.</li>\n<li>Interface with Oracle leadership and government stakeholders on integration and migration risk, dependencies, and decisions.</li>\n</ul><h3>Required Skills and Qualifications</h3><ul>\n<li>Work Authorization: US Citizenship is required.</li>\n<li>An active Public Trust level clearance is required.</li>\n<li>Bachelor's degree (Degree may be substituted with equivalent years of experience).</li>\n<li>10+ years of relevant experience, including 5 years of consulting or leadership experience.</li>\n<li>Demonstrated program-level ownership of enterprise integration and data migration efforts at scale.</li>\n<li>Deep experience with cloud HCM or ERP integration architecture and large-volume data migration.</li>\n<li>Experience directing distributed technical teams across concurrent workstreams.</li>\n</ul><h3>Preferred Skills and Qualifications</h3><ul>\n<li>Federal HR systems experience; familiarity with federal payroll provider landscape.</li>\n<li>Multi-agency or shared-service migration program experience.</li>\n<li>Experience with FedRAMP Moderate or higher environments.</li>\n<li>Master's degree.</li>\n</ul><div class=\"content-pay-transparency\"><div class=\"pay-input\">\n<div class=\"description\">\n<h3>Full-Time Employee Compensation</h3>\n<ul>\n<li>\n<a href=\"https://himalayas.app/companies/m9-solutions\">M9 Solutions</a>’ pay range for this position is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include, but are not limited to, responsibilities of the position, education, experience, knowledge, skills, abilities, as well as internal equity, location, alignment with market data, applicable bargaining agreement (if any), or other law.</li>\n<li>M9 Benefits - </li>\n</ul>\n</div>\n<div class=\"title\">Salary Range</div>\n<div class=\"pay-range\">$60,000—$180,000 USD</div>\n</div></div><div class=\"content-conclusion\">\n<p><a href=\"https://himalayas.app/companies/m9-solutions\">M9 Solutions</a>, LLC (M9) is a Federal sub-contractor and we comply with all applicable federal laws prohibiting discrimination in employment, including Title VII of the Civil Rights Act of 1964. We also adhere to the affirmative action requirements of the Vietnam Era Veterans' Readjustment Assistance Act (VEVRAA) and Section 503 of the Rehabilitation Act, ensuring equal opportunity for veterans and individuals with disabilities. Please click here to complete M9's Voluntary Self-Identification Form and then email it to . If you need accommodation during the application process or encounter difficulties using our website, please contact our Human Resources Department at  or 703-936-0880</p>\n<p><a href=\"https://himalayas.app/companies/m9-solutions\">M9 Solutions</a> is a proud participant in the Virginia Values Veterans (V3) program and supports the Military Medics and Corpsmen (MMAC) initiative, demonstrating our commitment to hiring and supporting veterans, transitioning service members, military spouses, and dependents.</p>\n<p>With 15+ years of proven delivery and growth, <a href=\"https://himalayas.app/companies/m9-solutions\">M9 Solutions</a> is a unique small business with credible past performance and key capabilities offering project management services, solution architects, business analysts, program managers, technical architects, and technical consultants. M9 was recognized as an Inc. 5000 Fastest-Growing Private Companies in 2021, 2020, 2019, 2018, 2017, 2016, and 2012. <a href=\"https://himalayas.app/companies/m9-solutions\">M9 Solutions</a> believes that work should be fun, rewarding, and something everyone can be excited about. We offer a competitive compensation package and value diverse perspectives in driving the vision of the company.</p>\n</div><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+                  "pubDate": 1786937908,
+                  "expiryDate": 1792121907,
+                  "applicationLink": "https://himalayas.app/companies/m9-solutions/jobs/director-integration-data-migration",
+                  "guid": "https://himalayas.app/companies/m9-solutions/jobs/director-integration-data-migration"
+            },
+            {
+                  "title": "Lead Engineer (Taiwan)",
+                  "excerpt": "About BJAKThe original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money.",
+                  "companyName": "Bjak",
+                  "companySlug": "bjak",
+                  "companyLogo": "https://cdn-images.himalayas.app/8ub8wtihrfrm3vfivlkcojai4np3",
+                  "employmentType": "Full Time",
+                  "minSalary": null,
+                  "maxSalary": null,
+                  "salaryPeriod": "annual",
+                  "seniority": [
+                        "Manager"
+                  ],
+                  "currency": null,
+                  "locationRestrictions": [
+                        "Taiwan"
+                  ],
+                  "timezoneRestrictions": [
+                        8
+                  ],
+                  "categories": [
+                        "Lead-Engineer",
+                        "Senior-Lead-Engineer",
+                        "Engineering-Lead",
+                        "Senior-Lead-Engineering",
+                        "Senior-Engineering-Lead",
+                        "Team-Lead-Engineering"
+                  ],
+                  "parentCategories": [ ],
+                  "description": "<h3><strong>About BJAK</strong></h3><p>The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.</p><p>Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia.</p><p>Today, we are expanding ways to help people in the region — this includes spending, saving, investing, exchanging, travelling, and more. Our mission is help people get more from their money every day.</p><p>We have teams working around the world, with over 20 nationalities from our offices and remotely, who truly enjoys their work. We are looking for the most talented and driven people we can find. We are looking for people who work for their passion, not counting hours. Who loves building great next-generation products, not status quo. Who cares about redefining how everyone around us can get the best financial applications, not for an exclusive few.</p><h3>The Role</h3><p>We are looking for a <strong>Lead Engineer</strong> to take technical ownership of complex products and systems and raise the engineering bar across the team. </p><p>This is a hands-on technical leadership role. You will be expected to design systems, write and review code, solve difficult engineering problems, guide other engineers and drive major initiatives from idea to production.</p><p> You should be comfortable moving between architecture and implementation — making strong technical decisions while still being close enough to the code to execute when needed.</p><h3>What You'll Own</h3><ul>\n<li><p>Lead the technical design and execution of major products, features and engineering initiatives.</p></li>\n<li><p>Design scalable, reliable and maintainable systems across backend, frontend, APIs, databases and infrastructure.</p></li>\n<li><p>Stay hands-on with engineering through coding, prototyping, code reviews, debugging and production problem-solving.</p></li>\n<li><p>Make architecture decisions and technical trade-offs that balance speed, scalability, reliability and maintainability.</p></li>\n<li><p>Break ambiguous product and technical problems into clear engineering solutions and execution plans.</p></li>\n<li><p>Set a high bar for code quality, system design, testing, security, observability and production reliability.</p></li>\n<li><p>Review technical designs and code from other engineers and provide clear, actionable feedback.</p></li>\n<li><p>Mentor engineers and help strengthen technical capability across the team.</p></li>\n<li><p>Identify technical risks, bottlenecks and architectural weaknesses before they become larger problems.</p></li>\n<li><p>Work closely with engineering, product, design and AI teams to ship high-quality products quickly.</p></li>\n<li><p>Improve engineering tooling, development practices and automation to increase team velocity.</p></li>\n<li><p>Own systems beyond release — monitor production, investigate incidents, resolve root causes and continuously improve reliability.</p></li>\n</ul><h3>What We're Looking For</h3><ul>\n<li><p>Strong software engineering background with significant experience building and shipping production systems.</p></li>\n<li><p>Deep technical expertise in one or more areas such as backend, frontend, distributed systems, APIs, databases or cloud infrastructure.</p></li>\n<li><p>Strong system design and architecture skills with experience making technical decisions for complex or high-scale systems.</p></li>\n<li><p>Strong coding ability and willingness to remain hands-on.</p></li>\n<li><p>Proven experience leading major engineering projects or providing technical leadership to other engineers.</p></li>\n<li><p>Comfortable reviewing code, debugging complex issues and working directly with production systems.</p></li>\n<li><p>Able to explain complex technical decisions clearly and influence engineers across teams.</p></li>\n<li><p>Strong product sense and ability to connect technical decisions to customer and business outcomes.</p></li>\n<li><p>Able to work fast with ambiguity and take ownership from problem definition through production.</p></li>\n<li><p>Strong judgment around when to move quickly, when to simplify and when deeper engineering investment is required.</p></li>\n</ul><h3>This Role Is Not For</h3><ul>\n<li><p>Engineers who want a leadership title but no longer want to write or review code.</p></li>\n<li><p>People who only want to work within one narrow technical area.</p></li>\n<li><p>Engineers who wait for complete specifications before starting.</p></li>\n<li><p>Candidates who over-engineer solutions when a simpler approach would achieve the outcome.</p></li>\n<li><p>Engineers who focus only on implementation without understanding the product or business problem.</p></li>\n<li><p>People who avoid production incidents, difficult debugging or ownership after release.</p></li>\n<li><p>Candidates who make vague claims about technical leadership without being able to explain what they personally designed, built, shipped or scaled.</p></li>\n</ul><h3>The Bar</h3><p>We are looking for technical leaders with real engineering career highlights. </p><p>A strong highlight is not simply having a senior title or working at a famous technology company. A strong highlight means you personally designed, built, shipped or scaled a serious product, platform or system and can go deep into the technical decisions behind it. </p><p>You should be able to demonstrate both technical depth and technical leadership — someone who can solve difficult engineering problems personally while making the engineers around them stronger.</p><h3>Location</h3><p>This is a <strong>hybrid role</strong>. You are expected to work from our local office at least <strong>3 days per week</strong>, with the remaining days offering flexibility to work remotely.</p><p>Candidates should be based in, or able to work from, the location where the role is advertised.</p><h3>Language</h3><p>English is our main working language across global teams. Strong English communication is required.</p><h3>Interview Process</h3><h3>Our process is designed to move fast:</h3><ol>\n<li><h3>Online assessment or practical task</h3></li>\n<li><h3>Technical interview</h3></li>\n<li><h3>CEO / final round</h3></li>\n</ol><p>For strong candidates, we aim to complete the process and make an offer within <strong>1 week</strong> from the start of the interview process. Candidates who complete assessments quickly will be prioritized.</p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+                  "pubDate": 1786937892,
+                  "expiryDate": 1792121891,
+                  "applicationLink": "https://himalayas.app/companies/bjak/jobs/lead-engineer-taiwan-7148294766",
+                  "guid": "https://himalayas.app/companies/bjak/jobs/lead-engineer-taiwan-7148294766"
+            },
+            {
+                  "title": "Marketing Operations Manager",
+                  "excerpt": "DescriptionOX Security secures the AI-driven SDLC from prompt to production.",
+                  "companyName": "OX Security",
+                  "companySlug": "ox-security",
+                  "companyLogo": "https://cdn-images.himalayas.app/aglvm4513tyvfibeizeixu8s3oyt",
+                  "employmentType": "Full Time",
+                  "minSalary": null,
+                  "maxSalary": null,
+                  "salaryPeriod": "annual",
+                  "seniority": [
+                        "Manager"
+                  ],
+                  "currency": null,
+                  "locationRestrictions": [
+                        "United States"
+                  ],
+                  "timezoneRestrictions": [
+                        -10,
+                        -9,
+                        -8,
+                        -7,
+                        -6,
+                        -5,
+                        14
+                  ],
+                  "categories": [
+                        "Marketing-Operations",
+                        "Revenue-Operations",
+                        "B2B-SaaS-Marketing",
+                        "Martech",
+                        "Demand-Generation",
+                        "Marketing-Operations-Manager",
+                        "Digital-Marketing-Operations-Manager"
+                  ],
+                  "parentCategories": [
+                        "Marketing",
+                        "Sales"
+                  ],
+                  "description": "<h3>Description</h3><p><strong><a href=\"https://himalayas.app/companies/ox-security\">OX Security</a> secures the AI-driven SDLC from prompt to production.</strong> We eliminate critical, real-time risks from AI code generation through cloud runtime by doing what conventional tools can't: unifying development and cloud context to stop vulnerabilities right at the source. At OX, we're building the future of cybersecurity for the AI era. If you're looking to work on disruptive technology with an amazing team, you belong here.</p><p>We're growing rapidly and looking for a <strong>Marketing Operations Manager</strong> to join our Marketing team and help scale our marketing engine through data, systems, automation, and operational excellence.</p><p>This is a highly cross-functional role where you'll partner closely with Marketing, Sales, and Revenue Operations to optimize marketing processes, manage our marketing technology stack, improve lead lifecycle management, and drive operational efficiency across the entire funnel.</p><p>If you're analytical, detail-oriented, hands-on, and passionate about building scalable marketing operations, optimizing processes, and turning data into actionable insights, we'd love to meet you.</p><h3>Responsibilities</h3><h3>What you’ll do:</h3><ul>\n<li>Own and optimize the <strong>marketing tech stack</strong> (CRM, marketing automation, attribution, ABM tools, analytics).</li>\n<li>Build and manage <strong>lead scoring, routing, and lifecycle processes</strong>, ensuring tight alignment with Sales.</li>\n<li>Develop <strong>dashboards and reporting frameworks</strong> for campaign performance, funnel health, and pipeline impact.</li>\n<li>Partner with demand gen to <strong>design, execute, and measure</strong> campaigns across digital, events, and ABM.</li>\n<li>Ensure <strong>data quality and governance</strong>, including database hygiene, enrichment, and segmentation.</li>\n<li>Streamline <strong>campaign operations</strong>: calendars, workflows, templates, and process documentation.</li>\n<li>Drive <strong>conversion optimization</strong> across landing pages, forms, nurture flows, and funnel stages.</li>\n<li>Collaborate with finance and leadership on <strong>budget tracking and ROI measurement</strong>.</li>\n</ul><h3>Requirements</h3><h3>What We’re Looking For</h3><ul>\n<li>2-3 years in <strong>marketing operations, revenue operations, or demand gen operations</strong> in B2B SaaS (cybersecurity a plus).</li>\n<li>Strong expertise in <strong>HubSpot</strong> (or Marketo/Pardot/Eloqua) and <strong>Salesforce</strong> CRM.</li>\n<li>Experience with ABM platforms (e.g., 6sense, Demandbase) and analytics tools (e.g., Looker, Tableau, PowerBI).</li>\n<li>Proven track record in <strong>campaign measurement, attribution models, and funnel reporting</strong>.</li>\n<li>Strong project management and communication skills.</li>\n<li>Analytical thinker with attention to detail — but also pragmatic in execution.</li>\n<li>Comfortable in a <strong>fast-paced startup environment</strong>, balancing strategic thinking with tactical execution.</li>\n</ul><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+                  "pubDate": 1786937831,
+                  "expiryDate": 1792121830,
+                  "applicationLink": "https://himalayas.app/companies/ox-security/jobs/marketing-operations-manager",
+                  "guid": "https://himalayas.app/companies/ox-security/jobs/marketing-operations-manager"
+            },
+            {
+                  "title": "Abkhaz Interpreter",
+                  "excerpt": "LanguageLine Solutions is Hiring! At LanguageLine, we strive for a world in which language and cultural barriers no longer exist.",
+                  "companyName": "LanguageLine Solutions",
+                  "companySlug": "languageline-solutions",
+                  "companyLogo": "https://cdn-images.himalayas.app/m9dm05xe40bt3nmnnzxafljf1g0k",
+                  "employmentType": "Part Time",
+                  "minSalary": 45,
+                  "maxSalary": 54,
+                  "salaryPeriod": "hourly",
+                  "seniority": [
+                        "Mid-level"
+                  ],
+                  "currency": "USD",
+                  "locationRestrictions": [
+                        "United States"
+                  ],
+                  "timezoneRestrictions": [
+                        -10,
+                        -9,
+                        -8,
+                        -7,
+                        -6,
+                        -5,
+                        14
+                  ],
+                  "categories": [
+                        "Interpreters",
+                        "Telephone-Interpreter",
+                        "Bilingual-Interpreter",
+                        "Language-Interpreter",
+                        "Translation-Services",
+                        "Abkhaz-Interpreter"
+                  ],
+                  "parentCategories": [ ],
+                  "description": "<h3>\n<a href=\"https://himalayas.app/companies/languageline-solutions\">LanguageLine Solutions</a> is Hiring!</h3><p>At LanguageLine, we strive for a world in which language and cultural barriers no longer exist. Use your language skills to dramatically improve the lives of limited-English speakers, as well as the Deaf and Hard-of-Hearing. Even better, you can do this while working from your own home.</p><p>LanguageLine has been certified as a Great Place to Work, and is regularly listed as one of America’s top work-from-home employers.</p><p>Our interpreters serve clients across numerous industries, including health care, 911, first responders, education, government agencies, and all walks of business.</p><p>As an interpreter, you will receive training that is the best in the industry. We’ll ensure that you learn new skills while further developing your skillset. We provide numerous opportunities for advancement. You’ll be in a certified ASTM and ISO environment. You'll also be supported by a Senior Language Specialist, as well as our Interpreter and Technology Help Desks.</p><h3>Join our team now!</h3><p><b>Job Description</b></p><p><b>Work at Home Bilingual </b><b>Abkhaz</b><b>-English Phone Interpreter </b></p><p><b>Job Title: </b><b>Abkhaz </b>Interpreter</p><p><b>Location:</b> Work at Home position in United States</p><p><b>Position:</b> Phone Interpreter</p><p><b>Status:</b> Independent Contractor</p><p><b>Pay:</b> $0.75 - $0.90 per minute</p><h3>We Offer:</h3><ul>\n<li>Employee Referral Program.</li>\n<li>Advancement opportunities within the organization.</li>\n<li>Interpreter support. </li>\n<li>An inclusive and diverse work environment.</li>\n<li><b>**This is an independent contractor position and therefore not eligible for employee benefits.**</b></li>\n</ul><h3>Position Overview:</h3><p>The <b>Abkhaz Telephone Interpreter</b> is responsible for handling calls on demand, and renders the meaning of conversations between <b>Abkhaz</b>and <b>English</b> speakers. The interpreter breaks the communication barrier in a wide range of industries that <a href=\"https://himalayas.app/companies/languageline-solutions\">LanguageLine Solutions</a> serves: Healthcare, Government, Insurance, Financial, Utilities, Travel &amp; Hospitality, General Business, Law Enforcement, Court, and 911.  </p><p>The interpreter processes information quickly, concisely and recognizes sensitive cultural differences.  The interpreter is professional and courteous at all times and uses appropriate terminology and understands common industry procedures and practices. The interpreting sessions may involve simple or complex, technical or non-technical subjects.</p><p>This position does not involve written translation however translators and other skilled linguists are encouraged to apply. The Interpreters translate verbally.</p><p>**This is a remote position. The Interpreter works from his/her home-office. It is essential to ensure a quiet &amp; secure environment.** </p><h3>Essential Job Functions</h3><ul>\n<li>Respond to the interpreting sessions promptly and conduct interpretation in a friendly and professional manner.</li>\n<li>Render correct concepts and meanings according to the conventions of established interpretation protocol, avoiding omissions or additions.</li>\n<li>Speak clearly in both languages using proper pronunciation, enunciation and polite expressions.</li>\n<li>Maintain a professional demeanor throughout the interpreting sessions at all times.</li>\n<li>Remain calm during interpreting sessions in the event that one of the primary speakers is incoherent or upset, especially in emergency situations such as 911 calls.</li>\n<li>Maintain punctuality and availability during work hours.</li>\n<li>Follow client instructions, in compliance with protocol to ensure client expectations are met with the Limited English-speaking Person (LEP), avoiding interaction with the LEP without client’s permission.</li>\n<li>Understand protocol and terminology for various industries including, but not limited to, Medical, Insurance, Finance and Law.</li>\n<li>Demonstrate commitment to cultural sensitivity and working in a diverse environment.</li>\n<li><b>**Some calls may be highly emotional and/or stressful in nature. The interpreter may need to remain on a call for extended periods without breaks due to the nature of the call or may, at times experience high call volumes. The interpreter must have the ability to provide the required, company standards of service within this dynamic environment. **</b></li>\n</ul><h3>Qualifications</h3><ul>\n<li>Fluency in<b>Abkhaz and English </b>and skilled in the associated cultural dynamics.</li>\n<li>Ability to provide cultural competency and assess regional and accent differences to find ways of communicating with the LEP.</li>\n<li>Excellent listening, retention and note-taking skills to maintain a high level of accuracy during interpretation.</li>\n<li>Ability to concentrate, stay detached from the conversation, remain neutral and objective at all times, and remain on calls that involve sensitive subjects such as end of life conversations, pregnancy termination, vaccinations, and matters concerning sexual orientation and/or gender expression.</li>\n<li>Education or work experience in language-related fields such as teaching, language assessment, translation or interpretation preferred.</li>\n<li>Must be able to adapt to any LLS technology enhancements that improve service delivery and meet client demands.</li>\n<li>Must be at least 18 years of age.</li>\n<li>Legally authorized to work in the United States.</li>\n<li>Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States and with <a href=\"https://himalayas.app/companies/languageline-solutions\">LanguageLine Solutions</a> (i.e., H1-B visa, F-1 visa (OPT), TN visa or any other non-immigrant status).</li>\n<li>High school diploma or equivalent.</li>\n<li>Candidates who are currently employed by a client of <a href=\"https://himalayas.app/companies/languageline-solutions\">LanguageLine Solutions</a> or an affiliated <a href=\"https://himalayas.app/companies/languageline-solutions\">LanguageLine Solutions</a> business may not be eligible for consideration.</li>\n<li>Ability to read and write the requested languages - highly preferred.</li>\n</ul><p><b>**Based on your location, a post-offer, a pre-employment background check and/or drug screen may be required**</b></p><h3>Technical Requirements:</h3><ul>\n<li>Dedicated personal device for business purposes.<ul>\n<li>Desktop / Laptop Computers with any of the following Operating Systems: Windows, MacOS, or ChromeOS.</li>\n<li>Tablets (iPadOS or Android) are acceptable.</li>\n<li>Smartphones (iOS or Android) are also acceptable.</li>\n</ul>\n</li>\n<li>Restricted brands:<ul>\n<li>Kaspersky products.</li>\n<li>Huawei hardware.</li>\n</ul>\n</li>\n<li>High speed Internet connection for work related electronic communication. This internet connection should provide download speeds of no less than 5 Mbps, upload speeds of 3 Mbps, Ping value of no more than 300 ms, Jitter value of no more than 30 ms.</li>\n<li>Must have access to a quiet space free from background noise or distraction.</li>\n</ul><h3>Physical Requirements:</h3><ul>\n<li>Must be able to operate a keyboard and mouse and remain in a stationary position in front of a computer the majority of the workday.</li>\n<li>Must be able to operate company provided software and systems to perform all aspects of the job. </li>\n<li>Must have sufficient manual dexterity to type or write.</li>\n<li>Able to lift up to 26 lbs.</li>\n<li>May be exposed to moderate noise levels; i.e. computer, audio, telephone.</li>\n</ul><p><b>Applications will be accepted for one hundred eighty (180) days from the posting date of May 15, 2026.</b></p><h3>EEO/AA</h3><p>LLS is an equal opportunity employer, meaning that employment opportunities are made and offered to individuals without regard to race, color, religion, sex, national origin, or any other characteristic protected by federal or state law or local ordinance.  LLS will reasonably accommodate employees and applicants with disabilities if the person is otherwise qualified to safely perform all of the essential functions of the position.  Should you require accommodations to complete this application and/or the interview process, please let us know immediately.</p><p><b>Equal Opportunity Employer</b>. All qualified applicants will receive consideration for employment and will not be discriminated against based on race. color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability, age, pregnancy, genetic information or any other consideration prohibited by law or contract.</p><p><b>VEVRAA</b> Federal Contractor requesting appropriate employment service delivery systems, such as state workforce agencies and local employment delivery systems, to provide priority referrals of protected veterans.</p><p><b>PAY TRANSPARENCY NONDISCRIMINATION PROVISION</b><br>The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information. 41 CFR 60-I.35(c)</p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+                  "pubDate": 1786937810,
+                  "expiryDate": 1792121810,
+                  "applicationLink": "https://himalayas.app/companies/languageline-solutions/jobs/abkhaz-interpreter-5024997484",
+                  "guid": "https://himalayas.app/companies/languageline-solutions/jobs/abkhaz-interpreter-5024997484"
+            },
+            {
+                  "title": "Head of Underwriting – Credit Fund",
+                  "excerpt": "ABOUT THE OPPORTUNITYXsolla is seeking a Head of Underwriting to serve as the fund's senior credit authority alongside the Chief Credit Officer.",
+                  "companyName": "Xsolla",
+                  "companySlug": "xsolla",
+                  "companyLogo": "https://cdn-images.himalayas.app/7vgihn46xneh0fp0rtrhg9hq8m63",
+                  "employmentType": "Full Time",
+                  "minSalary": null,
+                  "maxSalary": null,
+                  "salaryPeriod": "annual",
+                  "seniority": [
+                        "Director"
+                  ],
+                  "currency": null,
+                  "locationRestrictions": [
+                        "United States"
+                  ],
+                  "timezoneRestrictions": [
+                        -10,
+                        -9,
+                        -8,
+                        -7,
+                        -6,
+                        -5,
+                        14
+                  ],
+                  "categories": [
+                        "Head-Of-Underwriting",
+                        "Credit-Fund-Management",
+                        "Private-Credit",
+                        "Credit-Analysis",
+                        "Credit-Committee",
+                        "Director-Of-Credit-Risk-And-Underwriting",
+                        "Head-Of-Credit",
+                        "Underwriting-Director"
+                  ],
+                  "parentCategories": [ ],
+                  "description": "<h3>ABOUT THE OPPORTUNITY</h3><div>\n<p><a href=\"https://himalayas.app/companies/xsolla\">Xsolla</a> is seeking a Head of Underwriting to serve as the fund's senior credit authority alongside the Chief Credit Officer. You will design the underwriting framework from a clean sheet, lead the underwriting and structuring of the fund's first facilities, and stand in front of LPs as living proof that the fund underwrites to institutional standards.</p>\n<p>This is a builder's mandate. You will codify how this fund underwrites — the credit playbook, standards, templates, and documentation that make the process repeatable and defensible — and, as the team grows, mentor the junior credit hires who operate it.</p>\n<p>The role reports directly to Stan Rudoi, Chief Credit Officer and Head of the <a href=\"https://himalayas.app/companies/xsolla\">Xsolla</a> Credit Fund, and sits on the fund's credit committee.</p>\n</div><h3>ABOUT US </h3><p><a href=\"https://himalayas.app/companies/xsolla\">Xsolla</a> is a global commerce company with robust tools and services to help developers solve the inherent challenges of the video game industry. From indie to AAA, companies partner with <a href=\"https://himalayas.app/companies/xsolla\">Xsolla</a> to help them fund, distribute, market, and monetize their games. Grounded in the belief in the future of video games, <a href=\"https://himalayas.app/companies/xsolla\">Xsolla</a> is resolute in the mission to bring opportunities together, and continually make new resources available to creators. Headquartered and incorporated in Los Angeles, California, <a href=\"https://himalayas.app/companies/xsolla\">Xsolla</a> operates as the merchant of record and has helped over 1,500+ game developers to reach more players and grow their businesses around the world. With more paths to profits and ways to win, developers have all the things needed to enjoy the game.</p><p>Beyond its core commerce platform, <a href=\"https://himalayas.app/companies/xsolla\">Xsolla</a> is building a private credit fund that lends to video game studios, underwritten with a data advantage no traditional lender has: <a href=\"https://himalayas.app/companies/xsolla\">Xsolla</a>'s own payments telemetry across thousands of games. The fund is in its capital formation phase and is led by Stan Rudoi, Chief Credit Officer. This is a ground-floor opportunity to help raise a first-time fund inside a profitable, global gaming-commerce company, alongside the broader <a href=\"https://himalayas.app/companies/xsolla\">Xsolla</a> capital markets ecosystem (<a href=\"https://himalayas.app/companies/xsolla\">Xsolla</a> Funding Club, <a href=\"https://himalayas.app/companies/xsolla\">Xsolla</a> SPAC 1 — Nasdaq: XSLLU, and other strategic vehicles).</p><p>For more information, visit xsolla.com.</p><h3>Responsibilities</h3><ul>\n<h3>Underwriting Framework and Credit Policy</h3>\n<li>\n<strong>Design the fund's underwriting framework from scratch: </strong>credit policy, underwriting standards, rating and scoring methodology, credit memo templates, and approval workflows — built for LP diligence from day one.</li>\n<li>\n<strong>Build the data edge into the process: </strong>integrate <a href=\"https://himalayas.app/companies/xsolla\">Xsolla</a>'s payments telemetry and game-revenue data into underwriting as a durable information advantage.</li>\n<h3>Deal Underwriting and Structuring</h3>\n<li>\n<strong>Lead the underwriting </strong>of lending facilities to game studios and gaming businesses: financial analysis, revenue durability, downside cases, and recovery analysis.</li>\n<li>\n<strong>Structure facilities: </strong>term loans, revolvers, royalty- and revenue-based structures — including covenants, collateral packages, borrowing bases, and pricing.</li>\n<li>\n<strong>Draft </strong>and negotiate term sheets and credit documentation with borrowers alongside external counsel.</li>\n<h3>Credit Committee and Governance</h3>\n<li>\n<strong>Stand up and run the credit committee process: </strong>present transactions, document decisions, and maintain an audit trail that stands up to LP and auditor scrutiny.</li>\n<li>\n<strong>Establish portfolio monitoring: </strong>watchlist discipline, covenant tracking, and a workout playbook as the portfolio builds.</li>\n<h3>LP Diligence and Fundraising Support</h3>\n<li>\n<strong>Be the credit face of the fund: </strong>appear in fund materials and LP meetings as the fund's credit authority; own underwriting answers in LP due diligence.</li>\n<li>\n<strong>Support capital formation: </strong>help shape the fund's risk-return narrative, portfolio construction guidelines, and track-record presentation.</li>\n<h3>Credit Playbook and Team Building</h3>\n<li>\n<strong>Codify the credit playbook: </strong>standards, templates, and documentation that make the fund's underwriting repeatable and audit-ready.</li>\n<li>\n<strong>Build the bench: </strong>as the fund scales, hire and mentor the junior credit team — analysts, associates, and in time a portfolio/risk officer.</li>\n</ul><h3>Qualifications and Skills</h3><ul>\n<h3>Experience</h3>\n<li>7+ years in private credit, direct lending, specialty finance, or leveraged finance, with personal responsibility for underwriting and closing institutional credit transactions.</li>\n<li>Experience at an early-stage or first-time credit fund — credit policy written from scratch, LPA input, first LP diligence — is strongly preferred. You have seen what a fund needs before it has infrastructure.</li>\n<li>Lending against media, IP, royalties, recurring digital revenue, or gaming businesses is a strong plus.</li>\n<li>A track record you can walk LPs through: deals underwritten, structures used, and how they performed — including the ones that went wrong and what you did about it.</li>\n<h3>Skills and Competencies</h3>\n<li>Deep fluency in credit analysis, financial modeling, covenant design, collateral structures, and credit documentation.</li>\n<li>The gravitas to sit across from LPs, investment committees, and founders — and the judgment to say no to a deal.</li>\n<li>Enjoys mentoring junior team members and building a strong credit culture as the team grows.</li>\n<li>Comfort operating in a lean, fast-moving team where you build the machine you then operate.</li>\n<h3>Education and Credentials</h3>\n<li>A bachelor's degree in finance, economics, business, or a related field; an MBA and/or a CFA charter is preferred.</li>\n</ul><h3>Benefits</h3><p>We are passionate about fostering a supportive environment for our team, so we prioritize the physical, mental, and emotional well-being of our employees and their families through a comprehensive Benefits Program. This includes 100% company-paid medical, dental, and vision plans, unlimited Flexible Time Off, and a personalized career roadmap for each employee. By investing in professional development through training and educational opportunities, we ensure that our team thrives both personally and professionally. Together, we’re not just building a business; we’re cultivating a community that values creativity, collaboration, and the transformative power of play.</p><h3>Equal Employment Opportunity Statement</h3><p><a href=\"https://himalayas.app/companies/xsolla\">Xsolla</a> is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We do not discriminate based on race, color, religion, sex, national origin, age, disability, sexual orientation, gender identity, or any other characteristic protected by law. We consider qualified applicants with criminal histories in accordance with the Fair Chance Act.</p><h3>Criminal History Consideration</h3><p>For the Head of Underwriting – Credit Fundposition, we will conduct a background check that may include the following:</p><ul>\n<li>Criminal history check</li>\n<li>Employment verification</li>\n<li>Education verification</li>\n<li>Credit history check</li>\n</ul><h3>Relevance to Job Responsibilities</h3><p>The background check is relevant to this position because of the following role responsibilities:</p><ul>\n<li>Handling sensitive financial information and supporting fund analytics, financial models, and deal data</li>\n<li>Accessing confidential company data</li>\n<li>Ensuring compliance with regulatory requirements</li>\n</ul><h3>Rights Under the Fair Chance Act</h3><p>Applicants are encouraged to inquire about their rights under the Fair Chance Act. If you have questions regarding our hiring practices, please contact .</p><p><em>By submitting the following job application form, you consent to <a href=\"https://himalayas.app/companies/xsolla\">Xsolla</a> processing your data for career-related inquiries and potential employment opportunities. We process your data in accordance with this </em><em><a href=\"https://himalayas.app/companies/xsolla\">Xsolla</a> Privacy Notice for Job Applicants</em><em>. Please direct any inquiries regarding your data privacy to .</em></p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+                  "pubDate": 1786937779,
+                  "expiryDate": 1792121778,
+                  "applicationLink": "https://himalayas.app/companies/xsolla/jobs/head-of-underwriting-credit-fund",
+                  "guid": "https://himalayas.app/companies/xsolla/jobs/head-of-underwriting-credit-fund"
+            },
+            {
+                  "title": "Senior Oracle APEX & Database Administrator",
+                  "excerpt": "Position SummaryWe are seeking a Senior Oracle APEX and Database Administrator to support and enhance enterprise database platforms and Oracle APEX application environments.",
+                  "companyName": "Stantec",
+                  "companySlug": "stantec",
+                  "companyLogo": "https://cdn-images.himalayas.app/bkr5jty1efjgu7dh3tvg1wlio2e1",
+                  "employmentType": "Full Time",
+                  "minSalary": null,
+                  "maxSalary": null,
+                  "salaryPeriod": "annual",
+                  "seniority": [
+                        "Senior"
+                  ],
+                  "currency": null,
+                  "locationRestrictions": [
+                        "Canada"
+                  ],
+                  "timezoneRestrictions": [
+                        -8,
+                        -7,
+                        -6,
+                        -5,
+                        -4,
+                        -3.5
+                  ],
+                  "categories": [
+                        "Database-Administration",
+                        "Oracle-Database-Administration",
+                        "Oracle-Apex-Development",
+                        "Senior-Database-Administrator",
+                        "DBA",
+                        "Senior-Oracle-DBA",
+                        "Senior-Database-Administration"
+                  ],
+                  "parentCategories": [ ],
+                  "description": "<h3>Position Summary</h3><p>We are seeking a <strong>Senior Oracle APEX and Database Administrator</strong> to support and enhance enterprise database platforms and Oracle APEX application environments. This role will be responsible for the design, administration, performance optimization, and lifecycle management of Oracle databases and APEX/ORDS platforms supporting critical business applications.</p><p>The successful candidate will work closely with DBA, middleware, and application teams to ensure high availability, performance, and security of systems across development, QA, and production environments.</p><h3>Key Responsibilities</h3><h3>Oracle Database Administration</h3><ul>\n<li>Manage and maintain Oracle databases (19c and newer) across multiple environments</li>\n<li>Perform database installations, upgrades, patching, and migrations</li>\n<li>Implement backup/recovery strategies and disaster recovery solutions</li>\n<li>Monitor database performance and tune SQL, memory, and storage</li>\n<li>Manage database security, roles, and access controls</li>\n<li>Support PDB/CDB architecture, and database consolidation strategies</li>\n</ul><h3>Oracle APEX / ORDS Administration</h3><ul>\n<li>Install, configure, and upgrade Oracle APEX and ORDS environments</li>\n<li>Manage APEX schemas, users, and workspace configurations</li>\n<li>Support APEX application deployments and lifecycle management</li>\n<li>Troubleshoot APEX performance, session management, and runtime issues</li>\n<li>Configure ORDS connections, pools, and security integration</li>\n<li>Support integration between APEX and enterprise systems (e.g., APIs, EBS, middleware)</li>\n</ul><h3>Environment &amp; Infrastructure Management</h3><ul>\n<li>Manage multi-environment setups (DEV, QA, PROD)</li>\n<li>Support WebLogic or application server configurations for APEX/ORDS</li>\n<li>Coordinate database and application upgrades with cross-functional teams</li>\n<li>Maintain environment consistency and deployment standards</li>\n<li>Support capacity planning and performance testing initiatives</li>\n</ul><h3>Operational Support &amp; Troubleshooting</h3><ul>\n<li>Provide Tier 3 support for database and APEX incidents</li>\n<li>Troubleshoot complex issues including: </li>\n<li>Database performance degradation</li>\n<li>APEX application errors</li>\n<li>ORDS connectivity and configuration issues</li>\n<li>Monitor system health and proactively resolve issues</li>\n<li>Participate in on-call rotations and incident response</li>\n</ul><h3>Automation &amp; Process Improvement</h3><ul>\n<li>Develop automation scripts for deployments, monitoring, and maintenance</li>\n<li>Improve DBA operational processes and documentation</li>\n<li>Contribute to CI/CD pipelines for database and APEX deployments</li>\n<li>Ensure compliance with security and audit requirements</li>\n<li>Working knowledge and experience with Microsoft SQL Server</li>\n<li>Experience with PostgreSQL and MySQL is nice to have</li>\n</ul><h3>Additional Responsibilities</h3><ul>\n<li>Develop automation scripts for deployments, monitoring, and maintenance</li>\n<li>Improve DBA operational processes and documentation</li>\n<li>Contribute to CI/CD pipelines for database and APEX deployments</li>\n<li>Ensure compliance with security and audit requirements</li>\n</ul><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+                  "pubDate": 1786937779,
+                  "expiryDate": 1792121778,
+                  "applicationLink": "https://himalayas.app/companies/stantec/jobs/senior-oracle-apex-database-administrator",
+                  "guid": "https://himalayas.app/companies/stantec/jobs/senior-oracle-apex-database-administrator"
+            },
+            {
+                  "title": "Loss Control Consultant  (Workers Comp)",
+                  "excerpt": "About Integrated Specialty CoveragesIntegrated Specialty Coverages, LLC (ISC) is a growth stage technology and data-driven commercial MGA and insurance wholesaler leading innovation in the market.",
+                  "companyName": "Integrated Specialty Coverages, LLC",
+                  "companySlug": "integrated-specialty-coverages-llc",
+                  "companyLogo": "https://cdn-images.himalayas.app/gu4sexuhs4yzf5tj11razik0wb3q",
+                  "employmentType": "Full Time",
+                  "minSalary": 84000,
+                  "maxSalary": 130000,
+                  "salaryPeriod": "annual",
+                  "seniority": [
+                        "Mid-level"
+                  ],
+                  "currency": "USD",
+                  "locationRestrictions": [
+                        "United States"
+                  ],
+                  "timezoneRestrictions": [
+                        -10,
+                        -9,
+                        -8,
+                        -7,
+                        -6,
+                        -5,
+                        14
+                  ],
+                  "categories": [
+                        "Loss-Control",
+                        "Risk-Management",
+                        "Workers’-Compensation",
+                        "Safety-Consulting",
+                        "Insurance-Loss-Control",
+                        "Loss-Control-Consulting",
+                        "Workers-Compensation-Consultant",
+                        "Loss-Control-Specialist",
+                        "Workers-Compensation-Consulting",
+                        "Loss-Control-Auditor",
+                        "Workers-Comp-Specialist",
+                        "Workers'-Compensation-Specialist"
+                  ],
+                  "parentCategories": [ ],
+                  "description": "<div class=\"content-intro\">\n<h3>About Integrated Specialty Coverages</h3>\n<p><a href=\"https://himalayas.app/companies/integrated-specialty-coverages-llc\">Integrated Specialty Coverages, LLC</a> (ISC) is a growth stage technology and data-driven commercial MGA and insurance wholesaler leading innovation in the market.  </p>\n<p>Backed by one of the leading private equity firms, Onex Partners, and led by a forward-thinking management team, ISC is combining the worlds of insurance and technology to create an Insurtech powerhouse. As a leading online distributor of insurance products for a range of industries and “Main Street USA”, we are looking for the right people to help us in our mission of achieving exponential growth. We strive to be the number one place to go for brokers and agents to source insurance. To accomplish this, we’re building a digitally focused team that deeply understands the intersection between user experience, data, and AI/ML to optimize the way we engage with our customers and partners.</p>\n</div><h3>Job Summary:</h3><p>ISC just launched its Workers’ Compensation platform with BusinessFirst Insurance, a new brand that builds on the longstanding strength of RetailFirst Insurance Group, with over 13,000 policies, service in 8 states with $180M+ Written Premium. </p><p>The Workers' Compensation Loss Control Representative provides consultative risk management and occupational safety services to current and prospective policyholders. This role partners with employers to identify workplace hazards, evaluate safety programs, and recommend practical solutions that reduce employee injuries, improve regulatory compliance, and minimize workers' compensation claim frequency and severity. The representative conducts on-site safety evaluations, assists employers in developing effective injury prevention strategies, analyzes loss trends, and collaborates with Underwriting and Claims to support sound risk selection, pricing, and claim reduction initiatives. Success in this role requires strong technical knowledge of occupational safety, effective relationship management, and the ability to communicate practical recommendations that improve workplace safety and operational performance. Travel throughout the assigned territory using various forms of transportation, including automobile and occasional air travel, is required. </p><h3>Position Responsibilities:</h3><ul>\n<li>Manage an assigned book of workers' compensation policyholders within a designated territory.</li>\n<li>Conduct on-site loss control surveys, risk assessments, and follow-up visits to evaluate workplace hazards, employee exposures, and safety management practices. Identify operational risks that may contribute to workplace injuries and workers' compensation losses.</li>\n<li>Develop written reports that document findings, evaluate existing controls, and provide actionable recommendations to reduce occupational injuries.</li>\n<li>Review loss history and claim data to identify trends and prioritize risk improvement opportunities.</li>\n<li>Consult with employers to develop, implement, and improve injury and illness prevention programs, safety policies, and loss prevention initiatives.</li>\n<li>Provide guidance on OSHA regulations, industry best practices, and workers' compensation risk management strategies.</li>\n<li>Deliver safety training, toolbox talks, and educational presentations for policyholders and internal business partners as appropriate.</li>\n<li>Partner with Underwriting by providing technical assessments that support account selection, pricing, renewals, and risk improvement strategies.</li>\n<li>Collaborate with Claims and Underwriting personnel on large or complex losses to identify contributing factors and recommend corrective actions that reduce future claims.</li>\n<li>Maintain accurate inspection documentation, service plans, activity reports, and customer communications.</li>\n<li>Stay current on occupational safety regulations, industry trends, and emerging workplace hazards.</li>\n<li>Participate as needed in marketing/presentations to assigned agencies.</li>\n<li>Participate in departmental projects, continuous improvement initiatives, and other duties as assigned.</li>\n</ul><h3>Minimum Qualifications:</h3><ul>\n<li>Bachelor’s degree in Occupational Safety, Industrial Hygiene, Environmental Health, Risk Management, Engineering, Safety Sciences, or a related field preferred. Equivalent combination of education and relevant experience may be considered.</li>\n<li>Minimum 7 years of Workers Compensation loss control or related insurance experience required</li>\n<li>Valid driver's license with an acceptable driving record.</li>\n<li>OSHA 30 mandatory certification</li>\n<li>Professional certifications such as CSP, CIH, ARM, or other occupational safety credentials are preferred.</li>\n<li>Proficiency in Microsoft Office Suite and ability to quickly learn company-specific software</li>\n<li>Ability to work collaboratively with team members and other departments</li>\n<li>Ability to be flexible, embrace change, and quickly pivot in response to shifting priorities</li>\n</ul><div class=\"content-pay-transparency\"><div class=\"pay-input\">\n<div class=\"description\">\n<p>The starting annual pay scale for this position is listed below. Actual starting pay will be based on factors such as skills, qualifications, training, and experience. In addition, the company offers comprehensive benefits including medical, dental and vision insurance, 401(k) plan with match, paid time off, and other benefits.</p>\n<p>ISC's salary ranges are determined by role and level. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations and could be higher or lower based on a multitude of factors, including job-related skills, experience, and relevant education or training.</p>\n</div>\n<div class=\"title\">National Pay Range</div>\n<div class=\"pay-range\">$84,000—$130,000 USD</div>\n</div></div><div class=\"content-conclusion\">\n<h3>Benefits of Working at ISC</h3>\n<ul>\n<li>Employee Ownership Program - every eligible employee shares in the financial rewards that grow when the company grows</li>\n<li>Professional development opportunities</li>\n<li>Owner Referral Program</li>\n<li>Work from home reimbursement for remote/hybrid roles</li>\n<li>Canary emergency financial assistance program</li>\n<li>Comprehensive medical, dental, vision</li>\n<li>Life/AD&amp;D Insurance</li>\n<li>Confidential, Employee Assistance Program</li>\n<li>Health Savings Account, includes company contribution</li>\n<li>Short-term disability</li>\n<li>Voluntary benefits - supplemental accident, critical illness, hospital insurance</li>\n<li>Employee discounts</li>\n<li>401(k) Plan with company match contribution</li>\n<li>Addition Wealth Financial Wellness Program</li>\n<li>Various Time Off Programs</li>\n<li>11 company paid holidays</li>\n</ul>\n<p><em>Applicants may contact the ISC HR department via e-mail or phone to request and arrange for an accommodation that will allow the applicant to successfully complete the application process. Applicants needing assistance may request accommodation at any time. Please contact ISC at </em><em> or 760-599-7242.</em></p>\n<p><em>ISC believes in creating long-term relationships by being responsive and relevant and by consistently delivering value to our community of customers. Specifically, we focus on attracting, developing, and retaining the best talent for our business, challenging our people, demonstrating a “can-do” attitude, and fostering a collaborative and mutually supportive environment. </em></p>\n<p><em>Diversity creates a healthier atmosphere: All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, gender, gender identity, sexual orientation, marital status, medical condition, genetic information, mental or physical disability, military or veteran status, or any other characteristic protected by local, state, or Federal law.</em></p>\n<p><em>**Must be legally authorized to work in the United States.**</em></p>\n<p><em>**ISC participates in the Federal E-Verify program**</em></p>\n</div><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+                  "pubDate": 1786937757,
+                  "expiryDate": 1792121755,
+                  "applicationLink": "https://himalayas.app/companies/integrated-specialty-coverages-llc/jobs/loss-control-consultant-workers-comp",
+                  "guid": "https://himalayas.app/companies/integrated-specialty-coverages-llc/jobs/loss-control-consultant-workers-comp"
+            }
+      ]
+
+}
