@@ -1,0 +1,14 @@
+.App {
+    min-height: 100vh;
+    background: #000;
+    color: white;
+}
+
+.hero {
+    padding: 50px;
+}
+
+.search-box {
+    border: 1px solid pink;
+    border-radius: 20px;
+}
