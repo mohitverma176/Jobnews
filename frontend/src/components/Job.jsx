@@ -3,6 +3,9 @@ import FloatingWatchlist from './FloatingWatchlist';
 import Pagination from './Pagination';
 import './Global.css';
 import bg from '../assets/bg.mp4';
+import { BASE_URL } from '../config';
+
+const baseurl = BASE_URL;
 // Helper to strip HTML tags for clean card description previews
 function stripHtml(html) {
   if (!html) return '';
@@ -107,9 +110,11 @@ export default function Job({options,setoptions}) {
         jobName: searchTerm,
         currtext: searchTerm
       };
+      const apiPath = '/search';
+      const targetEndpoint = baseurl ? `${baseurl}${apiPath}` : apiPath;
 
       try {
-        response = await fetch('/search', {
+        response = await fetch(targetEndpoint, {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json'
@@ -117,16 +122,20 @@ export default function Job({options,setoptions}) {
           body: JSON.stringify(requestPayload)
         });
         if (!response.ok) {
-          throw new Error(`Proxy error status: ${response.status}`);
+          throw new Error(`Server returned status: ${response.status}`);
         }
-      } catch (proxyErr) {
-        response = await fetch('http://localhost:8000/search', {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json'
-          },
-          body: JSON.stringify(requestPayload)
-        });
+      } catch (err) {
+        if (baseurl) {
+          response = await fetch(apiPath, {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json'
+            },
+            body: JSON.stringify(requestPayload)
+          });
+        } else {
+          throw err;
+        }
       }
 
       if (!response.ok) {

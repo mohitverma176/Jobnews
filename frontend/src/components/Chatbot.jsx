@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { useNavigate } from 'react-router-dom';
 import './Chatbot.css';
+import { BASE_URL } from '../config';
 
 export default function Chatbot() {
   const [isOpen, setIsOpen] = useState(false);
@@ -91,22 +92,45 @@ export default function Chatbot() {
     });
   };
   const defaultfallback = async (userPrompt) => {
-   const response=await fetch("http://localhost:8000/chat", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json"
-      },
-      body: JSON.stringify({
-        prompt: `You are JobNews AI, a career assistant chatbot. Respond concisely to the user's query. If the user asks for jobs, resume tips, interview prep, skills, or tech news, provide relevant guidance. Avoid generic responses. If unsure, suggest visiting the Jobs or News page. This is the user query: ${userPrompt}`,
-        maxOutputTokens: 200,
-        temperature: 0.7
-      })
-    });
+    const apiPath = '/chat';
+    const targetEndpoint = BASE_URL ? `${BASE_URL}${apiPath}` : apiPath;
+    const requestPayload = {
+      prompt: `You are JobNews AI, a career assistant chatbot. Respond concisely to the user's query. If the user asks for jobs, resume tips, interview prep, skills, or tech news, provide relevant guidance. Avoid generic responses. If unsure, suggest visiting the Jobs or News page. This is the user query: ${userPrompt}`,
+      maxOutputTokens: 200,
+      temperature: 0.7
+    };
+
+    let response;
+    try {
+      response = await fetch(targetEndpoint, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify(requestPayload)
+      });
+      if (!response.ok) {
+        throw new Error(`Server status: ${response.status}`);
+      }
+    } catch (err) {
+      if (BASE_URL) {
+        response = await fetch(apiPath, {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json"
+          },
+          body: JSON.stringify(requestPayload)
+        });
+      } else {
+        throw err;
+      }
+    }
+
     const data = await response.json();
     if (!response.ok) {
       throw new Error(data?.error || 'Unable to reach the AI service');
     }
-    return data.candidates[0].content.parts[0].text|| "I'm here to assist you with your career queries!";
+    return data.candidates?.[0]?.content?.parts?.[0]?.text || "I'm here to assist you with your career queries!";
   };
 
 

@@ -17,10 +17,10 @@ function Footer() {
           </p>
 
           <div className="footer-socials">
-            <a href="#" aria-label="Facebook">f</a>
-            <a href="#" aria-label="Instagram">in</a>
-            <a href="#" aria-label="Twitter">𝕏</a>
-            <a href="#" aria-label="YouTube">▶</a>
+            <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" aria-label="Facebook">f</a>
+            <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" aria-label="Instagram">in</a>
+            <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" aria-label="Twitter">𝕏</a>
+            <a href="https://youtube.com" target="_blank" rel="noopener noreferrer" aria-label="YouTube">▶</a>
           </div>
         </div>
 
@@ -49,10 +49,10 @@ function Footer() {
         <div className="footer-column">
           <h3>Languages</h3>
 
-          <a href="#">English</a>
-          <a href="#">हिन्दी</a>
-          <a href="#">தமிழ்</a>
-          <a href="#">मराठी</a>
+          <a href="#lang-en">English</a>
+          <a href="#lang-hi">हिन्दी</a>
+          <a href="#lang-ta">தமிழ்</a>
+          <a href="#lang-mr">मराठी</a>
         </div>
 
       </div>

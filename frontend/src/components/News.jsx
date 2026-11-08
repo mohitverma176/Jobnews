@@ -2,6 +2,9 @@ import React, { useState, useEffect, useCallback } from 'react';
 import FloatingWatchlist from './FloatingWatchlist';
 import Pagination from './Pagination';
 import './Global.css';
+import { BASE_URL } from '../config';
+
+const baseurl = BASE_URL;
 
 export default function News({options, setoptions}) {
   const [news, setNews] = useState([]);
@@ -22,10 +25,8 @@ export default function News({options, setoptions}) {
     try {
       let response;
       const isSearch = query.trim().length > 0;
-      const endpoint = isSearch ? '/search/news' : '/news';
-      const fallbackEndpoint = isSearch 
-        ? 'http://localhost:8000/search/news' 
-        : 'http://localhost:8000/news';
+      const apiPath = isSearch ? '/search/news' : '/news';
+      const targetEndpoint = baseurl ? `${baseurl}${apiPath}` : apiPath;
 
       const fetchOptions = isSearch
         ? {
@@ -36,12 +37,16 @@ export default function News({options, setoptions}) {
         : { method: 'GET' };
 
       try {
-        response = await fetch(endpoint, fetchOptions);
+        response = await fetch(targetEndpoint, fetchOptions);
         if (!response.ok) {
-          throw new Error(`Proxy status: ${response.status}`);
+          throw new Error(`Server status: ${response.status}`);
         }
-      } catch (proxyErr) {
-        response = await fetch(fallbackEndpoint, fetchOptions);
+      } catch (err) {
+        if (baseurl) {
+          response = await fetch(apiPath, fetchOptions);
+        } else {
+          throw err;
+        }
       }
 
       if (!response.ok) {
